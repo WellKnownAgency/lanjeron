@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en" class="no-js">
 <head>
-	<title>Plato</title>
+	<title>Lanjeron Restaurant Philadelphia</title>
 
 	<meta charset="utf-8">
 
@@ -31,7 +31,7 @@
 					<ul>	<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
 							<!-- MAIN IMAGE -->
-							<img src="upload/slide1.jpg"  alt="slidebg1" data-lazyload="upload/slide1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="/images/main1.jpg"  alt="slidebg1" data-lazyload="/images/main1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -68,7 +68,7 @@
 						<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
 							<!-- MAIN IMAGE -->
-							<img src="upload/slide3.jpg"  alt="slidebg1" data-lazyload="upload/slide3.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="/images/main1.jpg"  alt="slidebg1" data-lazyload="/images/main1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -105,7 +105,7 @@
 						<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
 							<!-- MAIN IMAGE -->
-							<img src="upload/slide2.jpg"  alt="slidebg1" data-lazyload="upload/slide2.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="/images/main1.jpg"  alt="slidebg1" data-lazyload="/images/main1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -165,22 +165,11 @@
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right navigate-section">
 							<li><a class="active" href="#home-section">Home</a></li>
-							<li><a href="#about-section">About</a></li>
-							<li><a href="#special-section">Today's Special</a></li>
-							<li><a href="#menu-section">Menu</a></li>
-							<li><a href="#reservation-section">Reservation</a></li>
-							<li><a href="#team-section">Team</a></li>
+							<li><a href="#about-section">About us</a></li>
+							<li><a href="#menu-section">Our Menu</a></li>
 							<li><a href="#gallery-section">Gallery</a></li>
-							<li><a href="#contact-section">Contact</a></li>
-							<li><a href="blog.html">Blog</a></li>
-							<li class="search drop"><a href="#" class="open-search"><i class="fa fa-search"></i></a>
-								<form class="form-search">
-									<input type="search" placeholder="Search:"/>
-									<button type="submit">
-										<i class="fa fa-search"></i>
-									</button>
-								</form>
-							</li>
+							<li><a href="#reservation-section">Events</a></li>
+              <li><a href="tel:">Events</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
@@ -193,7 +182,7 @@
 		<section id="about-section">
 			<div class="container">
 				<div class="title-section">
-					<h1>Discover Our Story</h1>
+					<h2>About us</h2>
 					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam<br> malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
 				</div>
 				<div class="about-box">
@@ -245,97 +234,10 @@
 			</div>
 		</section>
 		<!-- End about section -->
-
-		<!-- special-section
-			================================================== -->
-		<section id="special-section">
-			<div class="container">
-				<div class="title-section white">
-					<h1>Today's Special</h1>
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada <br> erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
-				</div>
-			</div>
-			<div class="container">
-				<div class="today-special-box">
-					<div class="food-line">
-
-						<div class="food-post">
-							<div class="inner-food-post">
-								<div class="food-gal">
-									<img src="upload/sp1.jpg" alt="">
-								</div>
-								<div class="food-content">
-									<div class="food-content-box">
-										<h2><a href="#">CAMPO LINDO CHICKEN</a></h2>
-										<p>Praesent dapibus, neque id cursus faucibus, tortor neque </p>
-										<span class="price">$20.15</span>
-										<span class="category">in Dinners</span>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="food-post">
-							<div class="inner-food-post">
-								<div class="food-gal">
-									<img src="upload/sp2.jpg" alt="">
-								</div>
-								<div class="food-content">
-									<div class="food-content-box">
-										<h2><a href="#">BROCCOLI SOUP</a></h2>
-										<p>Praesent dapibus, neque id cursus faucibus, tortor neque </p>
-										<span class="price">$7.50</span>
-										<span class="category">in Breakfast</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="food-line">
-
-						<div class="food-post">
-							<div class="inner-food-post">
-								<div class="food-gal">
-									<img src="upload/sp3.jpg" alt="">
-								</div>
-								<div class="food-content">
-									<div class="food-content-box">
-										<h2><a href="#">TUNA ROAST SOURCE</a></h2>
-										<p>Praesent dapibus, neque id cursus faucibus, tortor neque </p>
-										<span class="price">$14.30</span>
-										<span class="category">in Dinners</span>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="food-post">
-							<div class="inner-food-post">
-								<div class="food-gal">
-									<img src="upload/sp4.jpg" alt="">
-								</div>
-								<div class="food-content">
-									<div class="food-content-box">
-										<h2><a href="#">CHOCOLATE FUDGE CAKE</a></h2>
-										<p>Praesent dapibus, neque id cursus faucibus, tortor neque </p>
-										<span class="price">$11.00</span>
-										<span class="category">in Desserts</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- End special section -->
-
-		<!--menu-section
-			================================================== -->
-		<section id="menu-section">
+    <section id="menu-section">
 			<div class="container">
 				<div class="title-section">
-					<h1>Our Menu</h1>
+					<h2>Our Menu</h2>
 					<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna <br> nibh, viverra non, semper suscipit, posuere a, pede.</p>
 				</div>
 				<div class="menu-box">
@@ -696,192 +598,63 @@
 				</div>
 			</div>
 		</section>
-		<!-- End menu-section -->
 
-		<!-- reservation-section
-			================================================== -->
-		<section id="reservation-section">
+    <section class="statistic-section" id="events-section">
 			<div class="container">
-				<div class="reservation-box">
-					<div class="row">
-						<div class="col-md-6">
-							<div class="title-section white">
-								<h1>Make Reservation</h1>
-								<p>Booking a table has never been so easy with free &amp; instsstant online <br> restaurant reservations, booking now!!</p>
-							</div>
-							<form class="reservation-form">
-								<label>Guest Name:</label>
-								<input type="text" name="name-guest" id="name-guest" placeholder="Name"/>
-								<label>Date:</label>
-								<input type="text" name="date-guest" id="date-guest" placeholder="mm/dd/yyyy"/>
-								<div class="row">
-									<div class="col-md-6">
-										<label>Time:</label>
-										<input type="text" name="time-guest" id="time-guest" placeholder="7:00 pm"/>
-									</div>
-									<div class="col-md-6">
-										<label>Pers:</label>
-										<input type="text" name="pers-guest" id="pers-guest" placeholder="2 people"/>
-									</div>
-								</div>
-								<input type="submit" name="submit-reservation" id="submit-reservation" value="Find a Table" />
-							</form>
-						</div>
-					</div>
-				</div>
+        <div class="title-section">
+          <h2>Events</h2>
+          <p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna <br> nibh, viverra non, semper suscipit, posuere a, pede.</p>
+        </div>
+  			<div class="row">
+  			<div class="col-md-4 mb-5 mb-md-0">
+  			<article class="post text-center">
+  			<div class="image-container position-relative">
+  			<div class="event_block_date text-light">
+  			<div class="month">Oct</div>
+  			<div class="day">23</div>
+  			</div>
+  			<img class="post-preview" src="assets/images/events/ryan-loughlin-690181-unsplash.jpg" alt="Jazz Festival">
+  			</div>
+  			<h4>Jazz Festival</h4>
+  			<p>Our annual Jazz Fest continues to register further increases in audience turnout without compromising artistic quality. This year we will enjoy some truly high-calibre performances.</p>
+  			</article>
+  			</div>
+  			<div class="col-md-4 mb-5 mb-md-0">
+  			<article class="post text-center">
+  			<div class="image-container position-relative">
+  			<div class="event_block_date text-light">
+  			<div class="month">Oct</div>
+  			<div class="day">23</div>
+  			</div>
+  			<img class="post-preview" src="assets/images/events/nadya-spetnitskaya-544582-unsplash.jpg" alt="Naples Pizza weeks">
+  			</div>
+  			<h4>Naples Pizza weeks</h4>
+  			<p>Are you ready to indulge in the finest pizzas in your life? Learn authentic recipes of wood-fired pizza during a series of educational workshops.</p>
+  			</article>
+  			</div>
+  			<div class="col-md-4">
+  			<article class="post text-center">
+  			<div class="image-container position-relative">
+  			<div class="event_block_date text-light">
+  			<div class="month">Oct</div>
+  			<div class="day">23</div>
+  			</div>
+  			<img class="post-preview" src="assets/images/events/tommy-van-kessel-657748-unsplash.jpg" alt="Acoustic night">
+  			</div>
+  			<h4>Acoustic night</h4>
+  			<p>We invited some of the finest local indie rock stars to please you with the acoustic sound. Well-known covers and previously unreleased songs will be performed.</p>
+  			</article>
+  			</div>
+  			</div>
 			</div>
 		</section>
-		<!-- End reservation-section -->
-
-		<!-- team-section
-			================================================== -->
-		<section id="team-section">
-			<div class="container">
-				<div class="title-section">
-					<h1>Meet Our Team</h1>
-					<p>Sed arcu. Cras consequat.</p>
-				</div>
-				<div class="team-box owl-wrapper">
-					<div class="owl-carousel" data-num="4">
-
-						<div class="item team-post">
-							<div class="inner-team-post">
-								<div class="team-gal">
-									<img src="upload/mem1.jpg" alt="">
-								</div>
-								<h2>James Evans</h2>
-								<span>Cook</span>
-								<p>Duis dapibus aliquam mi, eget euismod scelerisque ut. </p>
-								<ul class="social-icons">
-									<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
-									<li><a class="instagram" href="#"><i class="fa fa-instagram"></i></a></li>
-								</ul>
-							</div>
-						</div>
-
-						<div class="item team-post">
-							<div class="inner-team-post">
-								<div class="team-gal">
-									<img src="upload/mem2.jpg" alt="">
-								</div>
-								<h2>Kate Howston</h2>
-								<span>Chef</span>
-								<p>Duis dapibus aliquam mi, eget euismod scelerisque ut. </p>
-								<ul class="social-icons">
-									<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
-									<li><a class="instagram" href="#"><i class="fa fa-instagram"></i></a></li>
-								</ul>
-							</div>
-						</div>
-
-						<div class="item team-post">
-							<div class="inner-team-post">
-								<div class="team-gal">
-									<img src="upload/mem3.jpg" alt="">
-								</div>
-								<h2>Albert Dupontel</h2>
-								<span>Chef</span>
-								<p>Duis dapibus aliquam mi, eget euismod scelerisque ut. </p>
-								<ul class="social-icons">
-									<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
-									<li><a class="instagram" href="#"><i class="fa fa-instagram"></i></a></li>
-								</ul>
-							</div>
-						</div>
-
-						<div class="item team-post">
-							<div class="inner-team-post">
-								<div class="team-gal">
-									<img src="upload/mem4.jpg" alt="">
-								</div>
-								<h2>Michael Brown</h2>
-								<span>Cook</span>
-								<p>Duis dapibus aliquam mi, eget euismod scelerisque ut. </p>
-								<ul class="social-icons">
-									<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
-									<li><a class="instagram" href="#"><i class="fa fa-instagram"></i></a></li>
-								</ul>
-							</div>
-						</div>
-
-						<div class="item team-post">
-							<div class="inner-team-post">
-								<div class="team-gal">
-									<img src="upload/mem1.jpg" alt="">
-								</div>
-								<h2>James Evans</h2>
-								<span>Creative director</span>
-								<p>Duis dapibus aliquam mi, eget euismod scelerisque ut. </p>
-								<ul class="social-icons">
-									<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
-									<li><a class="instagram" href="#"><i class="fa fa-instagram"></i></a></li>
-								</ul>
-							</div>
-						</div>
-
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- End team-section -->
-
-		<!-- statistic-section
-			================================================== -->
-		<section class="statistic-section">
-			<div class="container">
-
-				<div class="statistic-box">
-					<div class="row">
-						<div class="col-md-3 col-sm-6">
-							<div class="statistic-post">
-								<p><span class="timer" data-from="0" data-to="23"></span></p>
-								<h2>Years Experience</h2>
-								<p>Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>
-							</div>
-						</div>
-						<div class="col-md-3 col-sm-6">
-							<div class="statistic-post">
-								<p><span class="timer" data-from="0" data-to="3200"></span></p>
-								<h2>Hours of Cooking</h2>
-								<p>Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>
-							</div>
-						</div>
-						<div class="col-md-3 col-sm-6">
-							<div class="statistic-post">
-								<p><span class="timer" data-from="0" data-to="5000"></span></p>
-								<h2>Happy Clients</h2>
-								<p>Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>
-							</div>
-						</div>
-						<div class="col-md-3 col-sm-6">
-							<div class="statistic-post">
-								<p><span class="timer" data-from="0" data-to="12"></span></p>
-								<h2>Skilled Chefs</h2>
-								<p>Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- End statistic section -->
 
 		<!-- gallery-section
 			================================================== -->
 		<section id="gallery-section">
 			<div class="container">
 				<div class="title-section">
-					<h1>Our Gallery</h1>
+					<h2>Our Gallery</h2>
 					<p>Morbi in sem quis dui placerat ornare. </p>
 				</div>
 				<ul class="filter">
@@ -975,7 +748,7 @@
 			<div class="upper-part">
 				<div class="container">
 					<div class="title-section white">
-						<h1>Get in Touch</h1>
+						<h2>Get in Touch</h2>
 						<p>Sed arcu. Cras consequat.</p>
 					</div>
 					<div class="widget-area">
