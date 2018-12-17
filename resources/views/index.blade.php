@@ -1923,7 +1923,7 @@
   			<div class="month">Oct</div>
   			<div class="day">23</div>
   			</div>
-  			<img class="post-preview" src="assets/images/events/ryan-loughlin-690181-unsplash.jpg" alt="Jazz Festival">
+  			<img class="post-preview" src="/images/main1.jpg" alt="Jazz Festival">
   			</div>
   			<h4>Jazz Festival</h4>
   			<p>Our annual Jazz Fest continues to register further increases in audience turnout without compromising artistic quality. This year we will enjoy some truly high-calibre performances.</p>
