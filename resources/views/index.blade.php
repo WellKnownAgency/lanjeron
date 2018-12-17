@@ -244,14 +244,14 @@
 					<!-- Nav tabs -->
 					<ul class="nav nav-tabs" role="tablist">
 						<li role="presentation" class="active li-padding"><a href="#Banquet40" aria-controls="Banquet $40" role="tab" data-toggle="tab">Banquet $40</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet50" aria-controls="Banquet $50" role="tab" data-toggle="tab">Banquet $50</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet60" aria-controls="Banquet $60" role="tab" data-toggle="tab">Banquet $60</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet70" aria-controls="Banquet $70" role="tab" data-toggle="tab">Banquet $70</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet80" aria-controls="Banquet $80" role="tab" data-toggle="tab">Banquet $80</a></li></br>
-						<li role="presentation" class="li-padding"><a href="#Banquet90" aria-controls="Banquet $90" role="tab" data-toggle="tab">Banquet $90</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet100" aria-controls="Banquet $100" role="tab" data-toggle="tab">Banquet $100</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet110" aria-controls="Banquet $110" role="tab" data-toggle="tab">Banquet $110</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet120" aria-controls="Banquet $120" role="tab" data-toggle="tab">Banquet $120</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet50" aria-controls="Banquet $50" role="tab" data-toggle="tab">$50</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet60" aria-controls="Banquet $60" role="tab" data-toggle="tab">$60</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet70" aria-controls="Banquet $70" role="tab" data-toggle="tab">$70</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet80" aria-controls="Banquet $80" role="tab" data-toggle="tab">$80</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet90" aria-controls="Banquet $90" role="tab" data-toggle="tab">$90</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet100" aria-controls="Banquet $100" role="tab" data-toggle="tab">$100</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet110" aria-controls="Banquet $110" role="tab" data-toggle="tab">$110</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet120" aria-controls="Banquet $120" role="tab" data-toggle="tab">$120</a></li>
 						<li role="presentation" class="li-padding"><a href="#kids25" aria-controls="Kids $25" role="tab" data-toggle="tab">Kids $25</a></li>
 						<li role="presentation" class="li-padding"><a href="#extras" aria-controls="Extras" role="tab" data-toggle="tab">Extras</a></li>
 					</ul>
