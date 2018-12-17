@@ -169,7 +169,7 @@
 							<li><a href="#menu-section">Our Menu</a></li>
 							<li><a href="#gallery-section">Gallery</a></li>
 							<li><a href="#reservation-section">Events</a></li>
-              <li><a href="tel:">Events</a></li>
+              <li><a href="tel:">257-77-77</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
@@ -243,24 +243,27 @@
 				<div class="menu-box">
 					<!-- Nav tabs -->
 					<ul class="nav nav-tabs" role="tablist">
-						<li role="presentation" class="active"><a href="#lunch" aria-controls="lunch" role="tab" data-toggle="tab">Lunch</a></li>
-						<li role="presentation"><a href="#dinner" aria-controls="dinner" role="tab" data-toggle="tab">Dinner</a></li>
-						<li role="presentation"><a href="#desserts" aria-controls="desserts" role="tab" data-toggle="tab">Desserts</a></li>
-						<li role="presentation"><a href="#drinks" aria-controls="drinks" role="tab" data-toggle="tab">Drinks</a></li>
+						<li role="presentation" class="active" style="padding-bottom:5px;"><a href="#Banquet40" aria-controls="Banquet $40" role="tab" data-toggle="tab">Banquet $40</a></li>
+						<li role="presentation"><a href="#Banquet50" aria-controls="Banquet $50" role="tab" data-toggle="tab">Banquet $50</a></li>
+						<li role="presentation"><a href="#Banquet60" aria-controls="Banquet $60" role="tab" data-toggle="tab">Banquet $60</a></li>
+						<li role="presentation"><a href="#Banquet70" aria-controls="Banquet $70" role="tab" data-toggle="tab">Banquet $70</a></li>
+						<li role="presentation"><a href="#Banquet80" aria-controls="Banquet $80" role="tab" data-toggle="tab">Banquet $80</a></li>
+						<li role="presentation"><a href="#Banquet90" aria-controls="Banquet $90" role="tab" data-toggle="tab">Banquet $90</a></li>
+						<li role="presentation"><a href="#Banquet100" aria-controls="Banquet $100" role="tab" data-toggle="tab">Banquet $100</a></li>
+						<li role="presentation"><a href="#Banquet110" aria-controls="Banquet $110" role="tab" data-toggle="tab">Banquet $110</a></li>
+						<li role="presentation"><a href="#Banquet120" aria-controls="Banquet $120" role="tab" data-toggle="tab">Banquet $120</a></li>
 					</ul>
 					<div class="tab-content">
-						<div role="tabpanel" class="tab-pane active" id="lunch">
+						<div role="tabpanel" class="tab-pane active" id="Banquet40">
 							<div class="row">
 								<div class="col-md-6">
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
 												<img src="upload/t1.jpg" alt="">
-												<span>new</span>
 											</div>
 											<div class="list-content">
-												<h2>Roasted Steak Roulade <span>$20.15</span></h2>
-												<p>Mint parsley with apple cider vinegar, salt, sugar &amp; spices</p>
+												<h2>Cured salmon</h2>
 											</div>
 										</li>
 										<li>
@@ -268,18 +271,15 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Fresh Baked Chicken Pot Pie <span>$25.55</span></h2>
-												<p>Chunks of tender, all-white chicken with carrots, onions, celery and peas in a rich cream.</p>
+												<h2>Meat Assortment</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
 												<img src="upload/t3.jpg" alt="">
-												<span>new</span>
 											</div>
 											<div class="list-content">
-												<h2>Butterball Turkey &amp; Dressing <span>$18.00</span></h2>
-												<p>Oven-roasted and hand-carved slices, served on homestyle sage dressing with hearty turkey.</p>
+												<h2>Greek salad</h2>
 											</div>
 										</li>
 										<li>
@@ -287,10 +287,26 @@
 												<img src="upload/t4.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2> Mushroom ‘n Swiss Chicken <span>$30.15</span></h2>
-												<p>Spinach, roma tomatoes, Italian black olives, feta and mozzarella</p>
+												<h2>Pickled vegetables</h2>
 											</div>
 										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Bassa with baked vegetables</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Shish-kebab chicken/pork 50/50</h2>
+											</div>
+										</li>
+
 									</ul>
 								</div>
 								<div class="col-md-6">
@@ -300,8 +316,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Roasted Steak Roulade <span>$20.15</span></h2>
-												<p>Mint parsley with apple cider vinegar, salt, sugar &amp; spices</p>
+												<h2>Tomato/feta cheese salad</h2>
 											</div>
 										</li>
 										<li>
@@ -309,8 +324,7 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Fresh Baked Chicken Pot Pie <span>$25.55</span></h2>
-												<p>Chunks of tender, all-white chicken with carrots, onions, celery and peas in a rich cream.</p>
+												<h2>Asian chicken salad </h2>
 											</div>
 										</li>
 										<li>
@@ -318,8 +332,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Butterball Turkey &amp; Dressing <span>$18.00</span></h2>
-												<p>Oven-roasted and hand-carved slices, served on homestyle sage dressing with hearty turkey.</p>
+												<h2>Potatoes with herring (Russian style) </h2>
 											</div>
 										</li>
 										<li>
@@ -327,15 +340,23 @@
 												<img src="upload/t4.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2> Mushroom ‘n Swiss Chicken <span>$30.15</span></h2>
-												<p>Spinach, roma tomatoes, Italian black olives, feta and mozzarella</p>
+												<h2>Pirogues (Chicken meat)</h2>
 											</div>
 										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Cola, tea, regular coffee, Cakes	</h2>
+											</div>
+										</li>
+
 									</ul>
 								</div>
 							</div>
 						</div>
-						<div role="tabpanel" class="tab-pane" id="dinner">
+						<div role="tabpanel" class="tab-pane" id="Banquet50">
 							<div class="row">
 								<div class="col-md-6">
 									<ul class="menu-list-items">
@@ -344,8 +365,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Roasted Steak Roulade <span>$20.15</span></h2>
-												<p>Mint parsley with apple cider vinegar, salt, sugar &amp; spices</p>
+												<h2>Cured salmon</h2>
 											</div>
 										</li>
 										<li>
@@ -353,8 +373,7 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Fresh Baked Chicken Pot Pie <span>$25.55</span></h2>
-												<p>Chunks of tender, all-white chicken with carrots, onions, celery and peas in a rich cream.</p>
+												<h2>Meat Assortment</h2>
 											</div>
 										</li>
 										<li>
@@ -362,8 +381,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Butterball Turkey &amp; Dressing <span>$18.00</span></h2>
-												<p>Oven-roasted and hand-carved slices, served on homestyle sage dressing with hearty turkey.</p>
+												<h2>Garden salad</h2>
 											</div>
 										</li>
 										<li>
@@ -371,8 +389,31 @@
 												<img src="upload/t4.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2> Mushroom ‘n Swiss Chicken <span>$30.15</span></h2>
-												<p>Spinach, roma tomatoes, Italian black olives, feta and mozzarella</p>
+												<h2>Pickled vegetables</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Basil and Tomato Shrimp Salad</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Shish-kebab chicken/pork 50/50</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Trout pan fried with stir-fry rice and vegetables</h2>
 											</div>
 										</li>
 									</ul>
@@ -382,11 +423,9 @@
 										<li>
 											<div class="list-image">
 												<img src="upload/t1.jpg" alt="">
-												<span>new</span>
 											</div>
 											<div class="list-content">
-												<h2>Roasted Steak Roulade <span>$20.15</span></h2>
-												<p>Mint parsley with apple cider vinegar, salt, sugar &amp; spices</p>
+												<h2>Tomato/feta cheese salad</h2>
 											</div>
 										</li>
 										<li>
@@ -394,18 +433,15 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Fresh Baked Chicken Pot Pie <span>$25.55</span></h2>
-												<p>Chunks of tender, all-white chicken with carrots, onions, celery and peas in a rich cream.</p>
+												<h2>Asian chicken salad </h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
 												<img src="upload/t3.jpg" alt="">
-												<span>new</span>
 											</div>
 											<div class="list-content">
-												<h2>Butterball Turkey &amp; Dressing <span>$18.00</span></h2>
-												<p>Oven-roasted and hand-carved slices, served on homestyle sage dressing with hearty turkey.</p>
+												<h2>Potatoes with herring (Russian style) </h2>
 											</div>
 										</li>
 										<li>
@@ -413,26 +449,40 @@
 												<img src="upload/t4.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2> Mushroom ‘n Swiss Chicken <span>$30.15</span></h2>
-												<p>Spinach, roma tomatoes, Italian black olives, feta and mozzarella</p>
+												<h2>Pirogues (Chicken meat)</h2>
 											</div>
 										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Crepes with red caviar</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Cola, tea, regular coffee, Cakes	</h2>
+											</div>
+										</li>
+
 									</ul>
 								</div>
 							</div>
 						</div>
-						<div role="tabpanel" class="tab-pane" id="desserts">
+						<div role="tabpanel" class="tab-pane" id="Banquet60">
 							<div class="row">
 								<div class="col-md-6">
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
 												<img src="upload/t1.jpg" alt="">
-												<span>new</span>
 											</div>
 											<div class="list-content">
-												<h2>Roasted Steak Roulade <span>$20.15</span></h2>
-												<p>Mint parsley with apple cider vinegar, salt, sugar &amp; spices</p>
+												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i><strong></h1>
 											</div>
 										</li>
 										<li>
@@ -440,18 +490,15 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Fresh Baked Chicken Pot Pie <span>$25.55</span></h2>
-												<p>Chunks of tender, all-white chicken with carrots, onions, celery and peas in a rich cream.</p>
+												<h2>FISH ASSORTMENT</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
 												<img src="upload/t3.jpg" alt="">
-												<span>new</span>
 											</div>
 											<div class="list-content">
-												<h2>Butterball Turkey &amp; Dressing <span>$18.00</span></h2>
-												<p>Oven-roasted and hand-carved slices, served on homestyle sage dressing with hearty turkey.</p>
+												<h2>MEAT ASSORTMENT</h2>
 											</div>
 										</li>
 										<li>
@@ -459,10 +506,58 @@
 												<img src="upload/t4.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2> Mushroom ‘n Swiss Chicken <span>$30.15</span></h2>
-												<p>Spinach, roma tomatoes, Italian black olives, feta and mozzarella</p>
+												<h2>HERRING (Russian Style)</h2>
 											</div>
 										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>PICKLED VEGETABLES (assortment)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>GARDEN SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>MAZZARELLA  CAPRESE  SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CHICKEN SALAD (MADONNA)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CEASAR SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEARED TUNA</h2>
+											</div>
+										</li>
+
 									</ul>
 								</div>
 								<div class="col-md-6">
@@ -472,8 +567,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Roasted Steak Roulade <span>$20.15</span></h2>
-												<p>Mint parsley with apple cider vinegar, salt, sugar &amp; spices</p>
+												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i><strong></h1>
 											</div>
 										</li>
 										<li>
@@ -481,8 +575,7 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Fresh Baked Chicken Pot Pie <span>$25.55</span></h2>
-												<p>Chunks of tender, all-white chicken with carrots, onions, celery and peas in a rich cream.</p>
+												<h2>POTATOES FRIED / BOILED (Russian Style)</h2>
 											</div>
 										</li>
 										<li>
@@ -490,8 +583,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Butterball Turkey &amp; Dressing <span>$18.00</span></h2>
-												<p>Oven-roasted and hand-carved slices, served on homestyle sage dressing with hearty turkey.</p>
+												<h2>TROUT W/VEGITABLES</h2>
 											</div>
 										</li>
 										<li>
@@ -499,15 +591,87 @@
 												<img src="upload/t4.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2> Mushroom ‘n Swiss Chicken <span>$30.15</span></h2>
-												<p>Spinach, roma tomatoes, Italian black olives, feta and mozzarella</p>
+												<h2>VEAL STEW IN WHITE WINE SAUCE</h2>
 											</div>
 										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>PIEROGI WITH MEAT/CHEESE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CREPES FRENCH STYLE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CREPES FRENCH STYLE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i><strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SHISH-KEBAB CHICKEN</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SHISH-KEBAB PORK</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i><strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>TEA, COFFEE, COLA, SELTZER</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FRUITS, ICE CREAM, ASSORTED CAKES</h2>
+											</div>
+										</li>
+
 									</ul>
 								</div>
 							</div>
 						</div>
-						<div role="tabpanel" class="tab-pane" id="drinks">
+						<div role="tabpanel" class="tab-pane" id="Banquet70">
 							<div class="row">
 								<div class="col-md-6">
 									<ul class="menu-list-items">
@@ -516,8 +680,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Roasted Steak Roulade <span>$20.15</span></h2>
-												<p>Mint parsley with apple cider vinegar, salt, sugar &amp; spices</p>
+												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i><strong></h1>
 											</div>
 										</li>
 										<li>
@@ -525,8 +688,7 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Fresh Baked Chicken Pot Pie <span>$25.55</span></h2>
-												<p>Chunks of tender, all-white chicken with carrots, onions, celery and peas in a rich cream.</p>
+												<h2>FISH ASSORTMENT</h2>
 											</div>
 										</li>
 										<li>
@@ -534,8 +696,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Butterball Turkey &amp; Dressing <span>$18.00</span></h2>
-												<p>Oven-roasted and hand-carved slices, served on homestyle sage dressing with hearty turkey.</p>
+												<h2>MEAT ASSORTMENT</h2>
 											</div>
 										</li>
 										<li>
@@ -543,8 +704,63 @@
 												<img src="upload/t4.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2> Mushroom ‘n Swiss Chicken <span>$30.15</span></h2>
-												<p>Spinach, roma tomatoes, Italian black olives, feta and mozzarella</p>
+												<h2>HERRING (Russian Style)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>PICKLED VEGETABLES (assortment)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>GREEK SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>MAZZARELLA  CAPRESE  SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>WALLDORF CHICKEN  SALAD </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CEASAR SALAD WITH PAN STEARED SHRIMP</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEARED SESAME-CRUSTED TUNA</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>GEORGIAN EGGPLANTS</h2>
 											</div>
 										</li>
 									</ul>
@@ -554,11 +770,9 @@
 										<li>
 											<div class="list-image">
 												<img src="upload/t1.jpg" alt="">
-												<span>new</span>
 											</div>
 											<div class="list-content">
-												<h2>Roasted Steak Roulade <span>$20.15</span></h2>
-												<p>Mint parsley with apple cider vinegar, salt, sugar &amp; spices</p>
+												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i><strong></h1>
 											</div>
 										</li>
 										<li>
@@ -566,18 +780,15 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>Fresh Baked Chicken Pot Pie <span>$25.55</span></h2>
-												<p>Chunks of tender, all-white chicken with carrots, onions, celery and peas in a rich cream.</p>
+												<h2>POTATOES FRIED / BOILED (Russian Style)</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
 												<img src="upload/t3.jpg" alt="">
-												<span>new</span>
 											</div>
 											<div class="list-content">
-												<h2>Butterball Turkey &amp; Dressing <span>$18.00</span></h2>
-												<p>Oven-roasted and hand-carved slices, served on homestyle sage dressing with hearty turkey.</p>
+												<h2>CREPES RED CAVIAR </h2>
 											</div>
 										</li>
 										<li>
@@ -585,10 +796,74 @@
 												<img src="upload/t4.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2> Mushroom ‘n Swiss Chicken <span>$30.15</span></h2>
-												<p>Spinach, roma tomatoes, Italian black olives, feta and mozzarella</p>
+												<h2>ASIAN STYLE SHRIMP W/ BAKED VEGETABLES</h2>
 											</div>
 										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>BAKED SALMON AND MUSHROOMS W/MUSHED POTATOES IN CREAMY WHITE SAUCE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CPIEROGI WITH MEAT AND CHEESE 50/50</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i><strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CHICKEN “TABAKA”</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SHISH-KEBAB PORK/CHICKEN</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i><strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>TEA, COFFEE, COLA, SELTZER</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FRUITS, ICE CREAM, ASSORTED CAKES</h2>
+											</div>
+										</li>
+
 									</ul>
 								</div>
 							</div>
