@@ -252,7 +252,7 @@
 						<li role="presentation" class="li-padding"><a href="#Banquet100" aria-controls="Banquet $100" role="tab" data-toggle="tab">$100</a></li>
 						<li role="presentation" class="li-padding"><a href="#Banquet110" aria-controls="Banquet $110" role="tab" data-toggle="tab">$110</a></li>
 						<li role="presentation" class="li-padding"><a href="#Banquet120" aria-controls="Banquet $120" role="tab" data-toggle="tab">$120</a></li>
-						<li role="presentation" class="li-padding"><a href="#kids25" aria-controls="Kids $25" role="tab" data-toggle="tab">Kids $25</a></li>
+						<li role="presentation" class="li-padding"><a href="#kids25" aria-controls="Kids $25" role="tab" data-toggle="tab">Kids</a></li>
 						<li role="presentation" class="li-padding"><a href="#extras" aria-controls="Extras" role="tab" data-toggle="tab">Extras</a></li>
 					</ul>
 					<div class="tab-content">
@@ -2217,6 +2217,14 @@
 							<div class="row">
 								<div class="col-md-12">
 									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Kids Menu $25:</i></strong></h1>
+											</div>
+										</li>
 										<li>
 											<div class="list-image">
 												<img src="upload/t1.jpg" alt="">
