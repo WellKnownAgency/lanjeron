@@ -482,7 +482,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -567,7 +567,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -623,7 +623,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -647,7 +647,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -680,7 +680,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -772,7 +772,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -820,7 +820,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -844,7 +844,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
 											</div>
 										</li>
 										<li>
