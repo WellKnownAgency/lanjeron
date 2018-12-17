@@ -247,7 +247,7 @@
 						<li role="presentation"><a href="#Banquet50" aria-controls="Banquet $50" role="tab" data-toggle="tab">Banquet $50</a></li>
 						<li role="presentation"><a href="#Banquet60" aria-controls="Banquet $60" role="tab" data-toggle="tab">Banquet $60</a></li>
 						<li role="presentation"><a href="#Banquet70" aria-controls="Banquet $70" role="tab" data-toggle="tab">Banquet $70</a></li>
-						<li role="presentation"><a href="#Banquet80" aria-controls="Banquet $80" role="tab" data-toggle="tab">Banquet $80</a></li>
+						<li role="presentation"><a href="#Banquet80" aria-controls="Banquet $80" role="tab" data-toggle="tab">Banquet $80</a></li></br>
 						<li role="presentation"><a href="#Banquet90" aria-controls="Banquet $90" role="tab" data-toggle="tab">Banquet $90</a></li>
 						<li role="presentation"><a href="#Banquet100" aria-controls="Banquet $100" role="tab" data-toggle="tab">Banquet $100</a></li>
 						<li role="presentation"><a href="#Banquet110" aria-controls="Banquet $110" role="tab" data-toggle="tab">Banquet $110</a></li>
@@ -482,7 +482,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -567,7 +567,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -623,7 +623,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -647,7 +647,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -680,7 +680,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -772,7 +772,7 @@
 												<img src="upload/t1.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -812,7 +812,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>CPIEROGI WITH MEAT AND CHEESE 50/50</h2>
+												<h2>PIEROGI WITH MEAT AND CHEESE 50/50</h2>
 											</div>
 										</li>
 										<li>
@@ -820,7 +820,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -844,7 +844,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i><strong></h1>
+												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
 											</div>
 										</li>
 										<li>
@@ -864,6 +864,1041 @@
 											</div>
 										</li>
 
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="Banquet80">
+							<div class="row">
+								<div class="col-md-6">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FISH ASSORTMENT</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>MEAT ASSORTMENT</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>HERRING (Russian Style)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>PICKLED VEGETABLES (assortment)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>GREEK SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>MAZZARELLA WITH TOMATOES & AVOCADO</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>MANHATTAN CHICKEN  SALAD </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>LARGE SHRIMP LANJERON IN COCKTAIL SAUCE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEARED SESAME-CRUSTED TUNA</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>POTATOES CROSTINI WITH RED CAVIAR</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CHARGRILLED THAI BEEF SALAD</h2>
+											</div>
+										</li>
+									</ul>
+								</div>
+								<div class="col-md-6">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>POTATOES FRIED / BOILED (Russian Style)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>BACKED SALMON WITH MUSHROOMS, MUSHED POTATOES  AND BROCOLLI</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>ASIAN STYLE SHRIMPS WITH GRILL VEGETABLES </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>PIEROGI WITH MEAT AND CHEESE 50/50</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>PAN–SEARED FOIE GRAS ON  TOASTED FRENCH BAGUETTE  IN RASPBERRY SAUCE </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>GRILLED LAMB CHOPS (with rosemary and thyme)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SHISH-KEBOB PORK/CHICKEN 50/50 </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SHOE STRING POTATOES</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>TEA, COFFEE, COLA, SELTZER</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FRUITS, APPLE STRUDEL, ASSORTED CAKES</h2>
+											</div>
+										</li>
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="Banquet90">
+							<div class="row">
+								<div class="col-md-6">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FISH ASSORTMENT  (nova lox, salmon, paddlefish)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>MEAT ASSORTMENT</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>PICKLED VEGETABLES (assortment)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>GREEK SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>BURATTO WITH ARUGULA AND TOMATOES	</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>EEL SALAD W/CRISPY NOODLES</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEAFOOD SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEARED TUNA</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>POTATOES CROSTINI WITH RED CAVIAR</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CRISPY  DUCK SALAD</h2>
+											</div>
+										</li>
+									</ul>
+								</div>
+								<div class="col-md-6">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SPRING ROLL “Lanjeron” (shrimp, crab meat)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>BACKED SALMON WITH MUSHROOMS, MUSHED POTATOES  AND BROCOLLI</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>POTATOES w/ MUSHR.</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FOIE GRAS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEAFOOD CASSEROLE </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>GRILLED LAMB CHOPS (with rosemary and thyme)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SHISH-KEBOB PORK/CHICKEN 50/50 </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>STUFFED QUAILS </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>TEA, COFFEE, COLA, SELTZER</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FRUITS, APPLE STRUDEL W/ ICE CREAM,  ASSORTED CAKES PLATER</h2>
+											</div>
+										</li>
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="Banquet100">
+							<div class="row">
+								<div class="col-md-6">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers (all included):</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEAFOOD SALAD (avocado, scallops, mussels, shrimps, king crab meat)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FISH ASSORTMENT  </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>BURRATA W/PROSCIUTTO</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>TUNA TATAKI</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CHARGRILLED THAI BEEF SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>ARUGULA SALAD WITH BEETS AND GOAT CHEESE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>PICKLED VEGETABLES (assortment)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CROSTINI W/BLACK CAVIAR</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>POTATOES w/ MUSHROOM (Russian style)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SPRING ROLL “Lanjeron” (shrimp, crab meat)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>EEL SALAD W/CRISPY NOODLES </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers (Choice of 3 items):</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CREPES w/ SEAFOOD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CHILEAN SEA BASS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CHICKEN CORDON BLUE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FOIE GRAS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>JUMBO LUMP CRAB CAKES (Chef special sauce)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEAFOOD PASTA THAI STYLE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SHRIMP PAD THAI</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>EDAMAME RAVIOLI</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEAFOOD “Lanjeron” (lobster tails, shrimps, sautéed scallops)</h2>
+											</div>
+										</li>
+
+									</ul>
+								</div>
+								<div class="col-md-6">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Entrees (Choice of 2 items):</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>QUALIS STUFFED w/ FOIE GRAS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>RACK OF LAMB</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SPICY DUCK</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>LAMB SHISH KEBAB (Uzbek style)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>RACK OF VEAL</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SHISH KEBAB CHICKEN /PORK</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>LULYA-KEBAB</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>AGED BEEF SLICED</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>TEA, COFFEE, COLA, SELTZER</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FRUITS, APPLE STRUDEL W/ ICE CREAM,  ASSORTED CAKES PLATER</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CARAMEL, CRÈME BRULEE, ASSORTED CAKES</h2>
+											</div>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="Banquet110">
+							<div class="row">
+								<div class="col-md-6">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers (all included):</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>LOBSTER SALAD (French style)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FISH ASSORTMENT </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEAFOOD ASSORTMENT </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>BURRATA W/PROSCIUTTO</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEARED TUNA OR TUNA TARTARE </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>THAI BEEF SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CHICKEN SALAD </h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>COUNTRY PATE (chicken/goose pate)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>APPLE, CRANBERRY & GOAT CHEESE SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>PICKLED VEGETABLES (assortment)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SPRING ROLL “Lanjeron” (shrimp, crab meat)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CROSTINI  w/ BLACK CAVIAR</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>POTATOES w/ MUSHROOM (Russian style)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers (Choice of 3 items):</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CREPES w/ SEAFOOD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CHILEAN SEA BASS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CHICKEN CORDON BLUE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FOIE GRAS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>JUMBO LUMP CRAB CAKES (Chef special sauce)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEARED SCALLOPS W/ASPARAGUS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CRAWFISH TAILS & WILD MUSHROOMS FILLO DOUGH</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>EDAMAME RAVIOLI</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEAFOOD “Lanjeron” (lobster tails, shrimps, sautéed scallops)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>RED SNAPPER</h2>
+											</div>
+										</li>
+									</ul>
+								</div>
+								<div class="col-md-6">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Entrees (Choice of 2 items):</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>QUALIS STUFFED w/ FOIE GRAS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>RACK OF LAMB</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FILLET MIGNON (w/vegetables)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>LAMB SHISH KEBAB (Uzbek style)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>RACK OF VEAL</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SHISH KEBAB CHICKEN /PORK</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>BEEF WELLINGTON</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>AGED BEEF SLICED</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>DUCK BREAST(berry sauce)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>TEA, COFFEE, COLA, SELTZER</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FRUITS, APPLE STRUDEL W/ ICE CREAM,  ASSORTED CAKES PLATER</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CARAMEL, CRÈME BRULEE, ASSORTED CAKES</h2>
+											</div>
+										</li>
 									</ul>
 								</div>
 							</div>
