@@ -28,6 +28,10 @@
     margin-bottom: 25px;
 }
 
+.li-padding {
+  padding-bottom: 3px;
+}
+
 .title-section h2 {
     color: #222222;
     font-size: 40px;

@@ -243,15 +243,17 @@
 				<div class="menu-box">
 					<!-- Nav tabs -->
 					<ul class="nav nav-tabs" role="tablist">
-						<li role="presentation" class="active" style="padding-bottom:5px;"><a href="#Banquet40" aria-controls="Banquet $40" role="tab" data-toggle="tab">Banquet $40</a></li>
-						<li role="presentation"><a href="#Banquet50" aria-controls="Banquet $50" role="tab" data-toggle="tab">Banquet $50</a></li>
-						<li role="presentation"><a href="#Banquet60" aria-controls="Banquet $60" role="tab" data-toggle="tab">Banquet $60</a></li>
-						<li role="presentation"><a href="#Banquet70" aria-controls="Banquet $70" role="tab" data-toggle="tab">Banquet $70</a></li>
-						<li role="presentation"><a href="#Banquet80" aria-controls="Banquet $80" role="tab" data-toggle="tab">Banquet $80</a></li></br>
-						<li role="presentation"><a href="#Banquet90" aria-controls="Banquet $90" role="tab" data-toggle="tab">Banquet $90</a></li>
-						<li role="presentation"><a href="#Banquet100" aria-controls="Banquet $100" role="tab" data-toggle="tab">Banquet $100</a></li>
-						<li role="presentation"><a href="#Banquet110" aria-controls="Banquet $110" role="tab" data-toggle="tab">Banquet $110</a></li>
-						<li role="presentation"><a href="#Banquet120" aria-controls="Banquet $120" role="tab" data-toggle="tab">Banquet $120</a></li>
+						<li role="presentation" class="active li-padding"><a href="#Banquet40" aria-controls="Banquet $40" role="tab" data-toggle="tab">Banquet $40</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet50" aria-controls="Banquet $50" role="tab" data-toggle="tab">Banquet $50</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet60" aria-controls="Banquet $60" role="tab" data-toggle="tab">Banquet $60</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet70" aria-controls="Banquet $70" role="tab" data-toggle="tab">Banquet $70</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet80" aria-controls="Banquet $80" role="tab" data-toggle="tab">Banquet $80</a></li></br>
+						<li role="presentation" class="li-padding"><a href="#Banquet90" aria-controls="Banquet $90" role="tab" data-toggle="tab">Banquet $90</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet100" aria-controls="Banquet $100" role="tab" data-toggle="tab">Banquet $100</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet110" aria-controls="Banquet $110" role="tab" data-toggle="tab">Banquet $110</a></li>
+						<li role="presentation" class="li-padding"><a href="#Banquet120" aria-controls="Banquet $120" role="tab" data-toggle="tab">Banquet $120</a></li>
+						<li role="presentation" class="li-padding"><a href="#kids25" aria-controls="Kids $25" role="tab" data-toggle="tab">Kids $25</a></li>
+						<li role="presentation" class="li-padding"><a href="#extras" aria-controls="Extras" role="tab" data-toggle="tab">Extras</a></li>
 					</ul>
 					<div class="tab-content">
 						<div role="tabpanel" class="tab-pane active" id="Banquet40">
@@ -1903,8 +1905,419 @@
 								</div>
 							</div>
 						</div>
+						<div role="tabpanel" class="tab-pane" id="Banquet120">
+							<div class="row">
+								<div class="col-md-6">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers (all included):</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEAFOOD SALAD DELUX	(scallops, mussels, shrimps, lobster)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FISH ASSORTMENT (nova lox, sturgeon, black caviar, salmon)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>MEAT ASSORTMENT (veal, smoked duck breast, busturma)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>HERRING WITH (finger ling potatoes, sour cream & dill)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>PICKLED VEGETABLES (assortment)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>BURRATA W/PROSHUTO	</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>LOBSTER ALA RUSSE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SPRING ROLL “Lanjeron” (shrimp, crab meat)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>EEL SALAD W/CRISPY NOODLES	</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CRUDITE FRESH VEGETABLES</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>POTATOES w/ MUSHROOMS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>COUNTRY PATE (Chicken/Goose pate)</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>DUCK SALAD</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SEARED SCALLOPS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers (Choice of 3 items):</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>DUCK W/APPLES</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CHILEAN SEA BASS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CHICKEN CORDON BLUE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FOIE GRAS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CRAB CAKES</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>COLOSSAL SHRIMP PAD THAI</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CRAW FISH TAILS & WILD MUSHROOMS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>EDAMAME RAVIOLI</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>LOBSTER TAIL CHAMPAGNE SAUCE</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>RED SNAPPER</h2>
+											</div>
+										</li>
+									</ul>
+								</div>
+								<div class="col-md-6">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Entrees (Choice of 2 items):</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>QUALIS STUFFED w/ FOIE GRAS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>RACK OF VEAL</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FILLET MIGNON</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>SHISH KEBAB CHICKEN /PORK/LAMB</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>BEEF WELLINGTON</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>LAMB CHOPS</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>TEA, COFFEE, COLA, SELTZER</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>FRUITS, APPLE STRUDEL W/ ICE CREAM,  ASSORTED CAKES PLATER</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CARAMEL, CRÈME BRULEE, ASSORTED FRENCH PASTRY</h2>
+											</div>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="kids25">
+							<div class="row">
+								<div class="col-md-12">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>French fries</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Pizza</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Mazzarella sticks</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Chicken nuggets</h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>Green salad</h2>
+											</div>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="extras">
+							<div class="row">
+								<div class="col-md-12">
+									<ul class="menu-list-items">
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>“PLOV” LAMB-PILAF (Serv. 6-7) <span>$50</span></h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t2.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>CRAZY LOBSTER (crab & shrimp) <span>$75</span></h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t3.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>ROASTED LEG OF LAMB (Serv. 10) <span>$120</span></h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t4.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>ALEXANDER CASSAROLE (Serv. 5)  <span>$50</span></h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>ROASTED DUCK (Stuff w/ apples) <span>$45</span></h2>
+											</div>
+										</li>
+										<li>
+											<div class="list-image">
+												<img src="upload/t1.jpg" alt="">
+											</div>
+											<div class="list-content">
+												<h2>ASSORTED CHEESE PLATER & CRACKERS (50 crackers) <span>$20</span></h2>
+											</div>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
 					</div>
-
 				</div>
 			</div>
 		</section>
