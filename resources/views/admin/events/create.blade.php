@@ -33,13 +33,11 @@
                 <input type="date" name="date" class="form-control" id="date" placeholder="Date">
               </div>
             </div>
-            <div class="form-row">
-              <div class="form-group col-md-6">
+              <div class="form-group">
                 <input onblur="textCounter(this.form.recipients,this,255);" disabled  onfocus="this.blur();" tabindex="999" maxlength="3" size="3" value="255" name="counter">
                 <label for="dscr">Description (max: 255)</label>
                 <textarea onblur="textCounter(this,this.form.counter,255);" onkeyup="textCounter(this,this.form.counter,255);" type="textarea" class="form-control" name="dscr" id="dscr" placeholder="Description"></textarea>
               </div>
-            </div>
             <div class="form-group">
               <label for="image">Upload Image (500x500)</label>
               <input type="file" class="form-control-file" name="img" id="image">

@@ -30,13 +30,11 @@ class EventController extends Controller
     // validate the data
    $this->validate($request, array(
            'title'         => 'required|max:255',
-           'slug'          => 'required|alpha_dash|min:5|max:255|unique:events,slug',
-           'dscr'          => 'required'
+           'dscr'          => 'required|max:255'
        ));
    // store in the database
    $event = new Event;
    $event->title = $request->title;
-   $event->slug = $request->slug;
    $event->date = $request->date;
    $event->dscr = $request->dscr;
 

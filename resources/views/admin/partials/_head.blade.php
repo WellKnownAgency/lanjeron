@@ -19,8 +19,6 @@
 
 <!-- Vendor CSS -->
 <link rel="stylesheet" href="{!! asset('css/app.css') !!}">
-<link rel="stylesheet" href="{!! asset('vendor/font-awesome/css/font-awesome.min.css') !!}">
-<link rel="stylesheet" href="{!! asset('vendor/admin/custom.css') !!}">
 <style>
   /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
   .row.content {height: 550px}
