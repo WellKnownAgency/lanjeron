@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-   $events = App\Event::latest()->paginate(3);
+   $events = App\Event::take(3)->latest()->get();
     return view('index')->withEvents($events);
 });
 
