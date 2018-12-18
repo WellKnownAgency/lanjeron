@@ -359,7 +359,6 @@
 												<h2>Cola, tea, regular coffee, Cakes	</h2>
 											</div>
 										</li>
-
 									</ul>
 								</div>
 							</div>
