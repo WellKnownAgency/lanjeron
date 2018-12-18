@@ -29,18 +29,15 @@
                 <input type="text" name="title" class="form-control" id="title" placeholder="Title">
               </div>
               <div class="form-group col-md-6">
-                <label for="slug">Slug</label>
-                <input type="text" class="form-control" name="slug" id="slug" placeholder="Slug">
+                <label for="date">Date</label>
+                <input type="date" name="date" class="form-control" id="date" placeholder="Date">
               </div>
             </div>
             <div class="form-row">
               <div class="form-group col-md-6">
-                <label for="metatitle">Date</label>
-                <input type="text" name="date" class="form-control" id="date" placeholder="Date">
-              </div>
-              <div class="form-group col-md-6">
-                <label for="dscr">Description</label>
-                <input type="text" class="form-control" name="dscr" id="dscr" placeholder="Description">
+                <input onblur="textCounter(this.form.recipients,this,255);" disabled  onfocus="this.blur();" tabindex="999" maxlength="3" size="3" value="255" name="counter">
+                <label for="dscr">Description (max: 255)</label>
+                <textarea onblur="textCounter(this,this.form.counter,255);" onkeyup="textCounter(this,this.form.counter,255);" type="textarea" class="form-control" name="dscr" id="dscr" placeholder="Description"></textarea>
               </div>
             </div>
             <div class="form-group">
@@ -55,3 +52,16 @@
   </div>
 </div>
 @stop
+
+<script>
+function textCounter( field, countfield, maxlimit ) {
+ if ( field.value.length > maxlimit ) {
+  field.value = field.value.substring( 0, maxlimit );
+  field.blur();
+  field.focus();
+  return false;
+ } else {
+  countfield.value = maxlimit - field.value.length;
+ }
+}
+</script>
