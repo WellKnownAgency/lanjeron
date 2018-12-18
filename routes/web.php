@@ -12,5 +12,11 @@
 */
 
 Route::get('/', function () {
-    return view('index');
+   $events = App\Event::latest()->paginate(3);
+    return view('index')->withEvents($events);
 });
+
+
+
+Route::resource('/admin/events', 'EventController');
+Route::get('/admin/events/{id}/delete', ['uses' => 'EventController@destroy', 'as' => 'event.delete']);

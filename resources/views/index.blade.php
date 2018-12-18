@@ -2337,6 +2337,7 @@
           <p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna <br> nibh, viverra non, semper suscipit, posuere a, pede.</p>
         </div>
   			<div class="row">
+					@foreach ($events as $event)
   			<div class="col-md-4 mb-5 mb-md-0">
   			<article class="post text-center">
   			<div class="image-container position-relative">
@@ -2344,38 +2345,13 @@
   			<div class="month">Oct</div>
   			<div class="day">23</div>
   			</div>
-  			<img class="post-preview" src="/images/main1.jpg" alt="Jazz Festival">
+  			<img class="post-preview" src="/images/events/{{$event->image}}" alt="{{$event->title}}">
   			</div>
-  			<h4>Jazz Festival</h4>
-  			<p>Our annual Jazz Fest continues to register further increases in audience turnout without compromising artistic quality. This year we will enjoy some truly high-calibre performances.</p>
+  			<h4>{{$event->title}}</h4>
+  			<p>{{ str_limit($event->dscr, 50, '') }}.</p>
   			</article>
   			</div>
-  			<div class="col-md-4 mb-5 mb-md-0">
-  			<article class="post text-center">
-  			<div class="image-container position-relative">
-  			<div class="event_block_date text-light">
-  			<div class="month">Oct</div>
-  			<div class="day">23</div>
-  			</div>
-  			<img class="post-preview" src="assets/images/events/nadya-spetnitskaya-544582-unsplash.jpg" alt="Naples Pizza weeks">
-  			</div>
-  			<h4>Naples Pizza weeks</h4>
-  			<p>Are you ready to indulge in the finest pizzas in your life? Learn authentic recipes of wood-fired pizza during a series of educational workshops.</p>
-  			</article>
-  			</div>
-  			<div class="col-md-4">
-  			<article class="post text-center">
-  			<div class="image-container position-relative">
-  			<div class="event_block_date text-light">
-  			<div class="month">Oct</div>
-  			<div class="day">23</div>
-  			</div>
-  			<img class="post-preview" src="assets/images/events/tommy-van-kessel-657748-unsplash.jpg" alt="Acoustic night">
-  			</div>
-  			<h4>Acoustic night</h4>
-  			<p>We invited some of the finest local indie rock stars to please you with the acoustic sound. Well-known covers and previously unreleased songs will be performed.</p>
-  			</article>
-  			</div>
+				@endforeach
   			</div>
 			</div>
 		</section>
