@@ -264,7 +264,9 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="images/menu/burata.jpg" alt="">
+												<a href="/images/menu/burata.jpg" data-toggle="lightbox">
+													<img src="/images/menu/burata.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Cured salmon</h2>
@@ -272,7 +274,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="images/menu/croostini w black caviar.jpg" alt="">
+												<a href="">
+													<img src="images/menu/croostini w black caviar.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Meat Assortment</h2>
