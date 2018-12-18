@@ -274,7 +274,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<a href="">
+												<a href="/images/menu/croostini w black caviar.jpg" data-toggle="lightbox">
 													<img src="/images/menu/croostini w black caviar.jpg" alt="">
 												</a>
 											</div>
