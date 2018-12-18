@@ -17,6 +17,8 @@ Route::get('/', function () {
 });
 
 
-
-Route::resource('/admin/events', 'EventController');
-Route::get('/admin/events/{id}/delete', ['uses' => 'EventController@destroy', 'as' => 'event.delete']);
+Route::middleware('auth:web')->group(function () {
+  Route::resource('/admin/events', 'EventController');
+  Route::get('/admin/events/{id}/delete', ['uses' => 'EventController@destroy', 'as' => 'event.delete']);
+});
+Auth::routes();
