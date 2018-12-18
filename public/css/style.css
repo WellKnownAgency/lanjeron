@@ -668,6 +668,7 @@ section#menu-section .menu-box ul.menu-list-items li .list-image {
   float: left;
   width: 70px;
   position: relative;
+  top: -15px;
 }
 section#menu-section .menu-box ul.menu-list-items li .list-image img {
   width: 100%;
