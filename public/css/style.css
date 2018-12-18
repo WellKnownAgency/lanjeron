@@ -23,6 +23,24 @@
 
 @import url('https://fonts.googleapis.com/css?family=Alex+Brush|Playfair+Display:400,400i,700,700i,900,900i|Rubik:300,300i,400,400i,500,700');
 
+.layer {
+    padding: 100px 0 60px;
+    background-color: rgba(51, 51, 51, 0.8);
+    top: 0;
+    left: 0;
+}
+
+.event_block_date {
+    position: absolute;
+    font-family: "Playfair Display";
+    font-size: 28px;
+    background-color: rgba(244, 179, 80, 0.6);
+    line-height: 1.2;
+    padding: 15px 20px;
+    top: 0;
+    color: #fff;
+}
+
 .post .post-preview {
     width: 100%;
     margin-bottom: 25px;
@@ -1032,12 +1050,12 @@ ul.filter li:first-child:before {
 /* =  Contact section
 /*-------------------------------------------------*/
 section#contact-section .upper-part {
-  padding: 100px 0 60px;
-  background: url('../upload/ban3.jpg') center center;
+  background: url('/images/main1.jpg') center center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+  position:relative;
 }
 section#contact-section .upper-part .widget-area .info-widget {
   margin-bottom: 40px;

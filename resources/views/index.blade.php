@@ -8,6 +8,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+	<link rel="stylesheet" href="css/lightbox.css">
 	<link rel="stylesheet" href="css/plato-assets.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
 
@@ -167,9 +168,10 @@
 							<li><a class="active" href="#home-section">Home</a></li>
 							<li><a href="#about-section">About us</a></li>
 							<li><a href="#menu-section">Our Menu</a></li>
+							<li><a href="#events-section">Events</a></li>
 							<li><a href="#gallery-section">Gallery</a></li>
-							<li><a href="#reservation-section">Events</a></li>
-              <li><a href="tel:">257-77-77</a></li>
+							<li><a href="#contact-section">Contact us</a></li>
+              <li><a href="tel:">(888) 888-8888</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
@@ -182,7 +184,7 @@
 		<section id="about-section">
 			<div class="container">
 				<div class="title-section">
-					<h2>About us</h2>
+					<h1>About us</h1>
 					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam<br> malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
 				</div>
 				<div class="about-box">
@@ -237,21 +239,21 @@
     <section id="menu-section">
 			<div class="container">
 				<div class="title-section">
-					<h2>Our Menu</h2>
+					<h1>Our Menu</h1>
 					<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna <br> nibh, viverra non, semper suscipit, posuere a, pede.</p>
 				</div>
 				<div class="menu-box">
 					<!-- Nav tabs -->
 					<ul class="nav nav-tabs" role="tablist">
 						<li role="presentation" class="active" style="padding-bottom:5px;"><a href="#Banquet40" aria-controls="Banquet $40" role="tab" data-toggle="tab">Banquet $40</a></li>
-						<li role="presentation"><a href="#Banquet50" aria-controls="Banquet $50" role="tab" data-toggle="tab">Banquet $50</a></li>
-						<li role="presentation"><a href="#Banquet60" aria-controls="Banquet $60" role="tab" data-toggle="tab">Banquet $60</a></li>
-						<li role="presentation"><a href="#Banquet70" aria-controls="Banquet $70" role="tab" data-toggle="tab">Banquet $70</a></li>
-						<li role="presentation"><a href="#Banquet80" aria-controls="Banquet $80" role="tab" data-toggle="tab">Banquet $80</a></li></br>
-						<li role="presentation"><a href="#Banquet90" aria-controls="Banquet $90" role="tab" data-toggle="tab">Banquet $90</a></li>
-						<li role="presentation"><a href="#Banquet100" aria-controls="Banquet $100" role="tab" data-toggle="tab">Banquet $100</a></li>
-						<li role="presentation"><a href="#Banquet110" aria-controls="Banquet $110" role="tab" data-toggle="tab">Banquet $110</a></li>
-						<li role="presentation"><a href="#Banquet120" aria-controls="Banquet $120" role="tab" data-toggle="tab">Banquet $120</a></li>
+						<li role="presentation"><a href="#Banquet50" aria-controls="Banquet $50" role="tab" data-toggle="tab">$50</a></li>
+						<li role="presentation"><a href="#Banquet60" aria-controls="Banquet $60" role="tab" data-toggle="tab">$60</a></li>
+						<li role="presentation"><a href="#Banquet70" aria-controls="Banquet $70" role="tab" data-toggle="tab">$70</a></li>
+						<li role="presentation"><a href="#Banquet80" aria-controls="Banquet $80" role="tab" data-toggle="tab">$80</a></li>
+						<li role="presentation"><a href="#Banquet90" aria-controls="Banquet $90" role="tab" data-toggle="tab">$90</a></li>
+						<li role="presentation"><a href="#Banquet100" aria-controls="Banquet $100" role="tab" data-toggle="tab">$100</a></li>
+						<li role="presentation"><a href="#Banquet110" aria-controls="Banquet $110" role="tab" data-toggle="tab">$110</a></li>
+						<li role="presentation"><a href="#Banquet120" aria-controls="Banquet $120" role="tab" data-toggle="tab">$120</a></li>
 					</ul>
 					<div class="tab-content">
 						<div role="tabpanel" class="tab-pane active" id="Banquet40">
@@ -1912,10 +1914,23 @@
     <section class="statistic-section" id="events-section">
 			<div class="container">
         <div class="title-section">
-          <h2>Events</h2>
+          <h1>Events</h1>
           <p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna <br> nibh, viverra non, semper suscipit, posuere a, pede.</p>
         </div>
   			<div class="row">
+	  			<div class="col-md-4 mb-5 mb-md-0">
+		  			<article class="post text-center">
+			  			<div class="image-container position-relative">
+				  			<div class="event_block_date text-light">
+				  			<div class="month">Oct</div>
+				  			<div class="day">23</div>
+				  			</div>
+				  			<img class="post-preview" src="/images/test.jpg" alt="Jazz Festival">
+			  			</div>
+			  			<h3>Jazz Festival</h3>
+			  			<p>Our annual Jazz Fest continues to register further increases in audience turnout without compromising artistic quality. This year we will enjoy some truly high-calibre performances.</p>
+	  				</article>
+	  			</div>
   			<div class="col-md-4 mb-5 mb-md-0">
   			<article class="post text-center">
   			<div class="image-container position-relative">
@@ -1923,20 +1938,7 @@
   			<div class="month">Oct</div>
   			<div class="day">23</div>
   			</div>
-  			<img class="post-preview" src="/images/main1.jpg" alt="Jazz Festival">
-  			</div>
-  			<h4>Jazz Festival</h4>
-  			<p>Our annual Jazz Fest continues to register further increases in audience turnout without compromising artistic quality. This year we will enjoy some truly high-calibre performances.</p>
-  			</article>
-  			</div>
-  			<div class="col-md-4 mb-5 mb-md-0">
-  			<article class="post text-center">
-  			<div class="image-container position-relative">
-  			<div class="event_block_date text-light">
-  			<div class="month">Oct</div>
-  			<div class="day">23</div>
-  			</div>
-  			<img class="post-preview" src="assets/images/events/nadya-spetnitskaya-544582-unsplash.jpg" alt="Naples Pizza weeks">
+  			<img class="post-preview" src="/images/test.jpg" alt="Naples Pizza weeks">
   			</div>
   			<h4>Naples Pizza weeks</h4>
   			<p>Are you ready to indulge in the finest pizzas in your life? Learn authentic recipes of wood-fired pizza during a series of educational workshops.</p>
@@ -1949,7 +1951,7 @@
   			<div class="month">Oct</div>
   			<div class="day">23</div>
   			</div>
-  			<img class="post-preview" src="assets/images/events/tommy-van-kessel-657748-unsplash.jpg" alt="Acoustic night">
+  			<img class="post-preview" src="/images/test.jpg" alt="Acoustic night">
   			</div>
   			<h4>Acoustic night</h4>
   			<p>We invited some of the finest local indie rock stars to please you with the acoustic sound. Well-known covers and previously unreleased songs will be performed.</p>
@@ -1964,7 +1966,7 @@
 		<section id="gallery-section">
 			<div class="container">
 				<div class="title-section">
-					<h2>Our Gallery</h2>
+					<h1>Our Gallery</h1>
 					<p>Morbi in sem quis dui placerat ornare. </p>
 				</div>
 				<ul class="filter">
@@ -1976,76 +1978,92 @@
 			</div>
 			<div class="gallery-box iso-call">
 				<div class="gal-project desert rest">
-					<img src="upload/g1.jpg" alt="">
-					<div class="hover-gal">
-						<div class="inner-gal">
-							<h2>Aliquam tincidunt</h2>
-							<span>Dessert, Restaurant</span>
+					<a href="/images/test.jpg" data-toggle="lightbox">
+						<img src="/images/test.jpg" alt="">
+						<div class="hover-gal">
+							<div class="inner-gal">
+								<h2>Aliquam tincidunt</h2>
+								<span>Dinner</span>
+							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="gal-project dinner">
-					<img src="upload/g2.jpg" alt="">
-					<div class="hover-gal">
-						<div class="inner-gal">
-							<h2>Aliquam tincidunt</h2>
-							<span>Dinner</span>
+					<a href="/images/test.jpg" data-toggle="lightbox">
+						<img src="/images/test.jpg" alt="">
+						<div class="hover-gal">
+							<div class="inner-gal">
+								<h2>Aliquam tincidunt</h2>
+								<span>Dinner</span>
+							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="gal-project rest">
-					<img src="upload/g3.jpg" alt="">
-					<div class="hover-gal">
-						<div class="inner-gal">
-							<h2>Aliquam tincidunt</h2>
-							<span>Restaurant</span>
+					<a href="/images/test.jpg" data-toggle="lightbox">
+						<img src="/images/test.jpg" alt="">
+						<div class="hover-gal">
+							<div class="inner-gal">
+								<h2>Aliquam tincidunt</h2>
+								<span>Restaurant</span>
+							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="gal-project rest">
-					<img src="upload/g4.jpg" alt="">
-					<div class="hover-gal">
-						<div class="inner-gal">
-							<h2>Aliquam tincidunt</h2>
-							<span>Restaurant</span>
+					<a href="/images/test.jpg" data-toggle="lightbox">
+						<img src="/images/test.jpg" alt="">
+						<div class="hover-gal">
+							<div class="inner-gal">
+								<h2>Aliquam tincidunt</h2>
+								<span>Restaurant</span>
+							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="gal-project dinner">
-					<img src="upload/g5.jpg" alt="">
-					<div class="hover-gal">
-						<div class="inner-gal">
-							<h2>Aliquam tincidunt</h2>
-							<span>Dinner</span>
+					<a href="/images/test.jpg" data-toggle="lightbox">
+						<img src="/images/test.jpg" alt="">
+						<div class="hover-gal">
+							<div class="inner-gal">
+								<h2>Aliquam tincidunt</h2>
+								<span>Dinner</span>
+							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="gal-project dinner">
-					<img src="upload/g6.jpg" alt="">
-					<div class="hover-gal">
-						<div class="inner-gal">
-							<h2>Aliquam tincidunt</h2>
-							<span>Dinner</span>
+					<a href="/images/test.jpg" data-toggle="lightbox">
+						<img src="/images/test.jpg" alt="">
+						<div class="hover-gal">
+							<div class="inner-gal">
+								<h2>Aliquam tincidunt</h2>
+								<span>Dinner</span>
+							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="gal-project dinner">
-					<img src="upload/g7.jpg" alt="">
-					<div class="hover-gal">
-						<div class="inner-gal">
-							<h2>Aliquam tincidunt</h2>
-							<span>Dinner</span>
+					<a href="/images/test.jpg" data-toggle="lightbox">
+						<img src="/images/test.jpg" alt="">
+						<div class="hover-gal">
+							<div class="inner-gal">
+								<h2>Aliquam tincidunt</h2>
+								<span>Dinner</span>
+							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 				<div class="gal-project desert">
-					<img src="upload/g8.jpg" alt="">
-					<div class="hover-gal">
-						<div class="inner-gal">
-							<h2>Aliquam tincidunt</h2>
-							<span>Dessert</span>
+					<a href="/images/test.jpg" data-toggle="lightbox">
+						<img src="/images/test.jpg" alt="">
+						<div class="hover-gal">
+							<div class="inner-gal">
+								<h2>Aliquam tincidunt</h2>
+								<span>Dessert</span>
+							</div>
 						</div>
-					</div>
+					</a>
 				</div>
 			</div>
 		</section>
@@ -2054,74 +2072,56 @@
 		<!-- Conctact section
 			================================================== -->
 		<section id="contact-section">
-
 			<div class="upper-part">
+				<div class="layer">
 				<div class="container">
 					<div class="title-section white">
-						<h2>Get in Touch</h2>
+						<h1>Get in Touch</h1>
 						<p>Sed arcu. Cras consequat.</p>
 					</div>
 					<div class="widget-area">
 						<div class="row">
-							<div class="col-md-4">
+							<div class="col-md-6">
 								<div class="info-widget">
 									<h1>
 										Contact Info
 									</h1>
-									<p>732/21 Second Street, Manchester, <br> King Street, Kingston United </p>
+									<p>13032 Bustleton Ave, <br> Philadelphia, PA 19116 </p>
 									<p>
-										<span>+ 123 4567-32-21</span>
-										<span>+ 123 9876-54-43</span>
+										<span>(215) 671-4088</span>
 									</p>
-									<p>info@mail.com</p>
 									<ul class="social-icons">
 										<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-										<li><a class="dribble" href="#"><i class="fa fa-dribbble"></i></a></li>
-										<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-										<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
+										<li><a class="twitter" href="#"><i class="fa fa-yelp"></i></a></li>
+										<li><a class="dribble" href="#"><i class="fa fa-tripadvisor"></i></a></li>
+										<li><a class="google" href="#"><i class="fa fa-google"></i></a></li>
 									</ul>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-6">
 								<div class="info-widget">
 									<h1>
 										Open Hours
 									</h1>
 									<p>
 										<span>Monday — Thursday</span>
-										<span class="time">8 am — 11 pm</span>
+										<span class="time">12 pm - 11 pm</span>
 									</p>
 									<p>
-										<span>Friday — Sunday</span>
-										<span class="time">11 am — 11 pm</span>
+										<span>Friday</span>
+										<span class="time">12 pm - 2 am</span>
 									</p>
-									<p>Note: Restaurant is closed on holidays.</p>
-								</div>
-							</div>
-							<div class="col-md-4">
-								<div class="info-widget">
-									<h1>
-										Say Hello!
-									</h1>
-
-									<form id="contact-form">
-										<input name="name" id="name" type="text" placeholder="Name*">
-										<input name="mail" id="mail" type="text" placeholder="Email*">
-										<textarea name="comment" id="comment" placeholder="*Message*"></textarea>
-										<div class="submit-area">
-											<input type="submit" id="submit_contact" value="Send Message">
-											<div id="msg" class="message"></div>
-										</div>
-									</form>
+									<p>
+										<span>Saturday - Sunday</span>
+										<span class="time">12 pm - 4 am</span>
+									</p>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-
+			</div>
 			<div class="map"></div>
 		</section>
 		<!-- End contact section -->
@@ -2130,13 +2130,16 @@
 			================================================== -->
 		<footer>
 			<p class="copyright">
-				&copy; Copyright 2018. "Plato" by Nunforest. All rights reserved.
+				&copy; Copyright 2018. Lanjeron. All rights reserved.
+				<span style="float:right; font-size: 10px;">by <a href="https://wknown.com" target="_blank" style="text-decoration: none;">WellKnown Agency</a></span>
 			</p>
 		</footer>
 		<!-- End footer -->
 
 	</div>
 	<!-- End Container -->
+
+
 
 	<script src="js/plato-plugins.min.js"></script>
     <script src="js/jquery.themepunch.tools.min.js"></script>
@@ -2147,6 +2150,15 @@
   	<script src="http://maps.google.com/maps/api/js?key=AIzaSyCiqrIen8rWQrvJsu-7f4rOta0fmI5r2SI&amp;sensor=false&amp;language=en"></script>
 	<script src="js/gmap3.min.js"></script>
 	<script src="js/script.js"></script>
+	<script src="js/lightbox.js"></script>
+	<script>
+
+	$(document).on('click', '[data-toggle="lightbox"]', function(event) {
+			event.preventDefault();
+			$(this).ekkoLightbox();
+	});
+
+	</script>
 
 	<!-- Revolution slider -->
 	<script>
@@ -2220,5 +2232,8 @@
 		});	//ready
 
 	</script>
+
+
+
 </body>
 </html>
