@@ -2339,52 +2339,19 @@
           <p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna <br> nibh, viverra non, semper suscipit, posuere a, pede.</p>
         </div>
   			<div class="row">
-<<<<<<< HEAD
-	  			<div class="col-md-4 mb-5 mb-md-0">
-		  			<article class="post text-center">
-			  			<div class="image-container position-relative">
-				  			<div class="event_block_date text-light">
-				  			<div class="month">Oct</div>
-				  			<div class="day">23</div>
-				  			</div>
-				  			<img class="post-preview" src="/images/test.jpg" alt="Jazz Festival">
-			  			</div>
-			  			<h3>Jazz Festival</h3>
-			  			<p>Our annual Jazz Fest continues to register further increases in audience turnout without compromising artistic quality. This year we will enjoy some truly high-calibre performances.</p>
-	  				</article>
-	  			</div>
-=======
 					@foreach ($events as $event)
->>>>>>> 138eac44f5f41637fa71ed3390d74bf19b002e50
   			<div class="col-md-4 mb-5 mb-md-0">
-  			<article class="post text-center">
-  			<div class="image-container position-relative">
-  			<div class="event_block_date text-light">
-  			<div class="month">Oct</div>
-  			<div class="day">23</div>
-  			</div>
-<<<<<<< HEAD
-  			<img class="post-preview" src="/images/test.jpg" alt="Naples Pizza weeks">
-  			</div>
-  			<h4>Naples Pizza weeks</h4>
-  			<p>Are you ready to indulge in the finest pizzas in your life? Learn authentic recipes of wood-fired pizza during a series of educational workshops.</p>
-  			</article>
-  			</div>
-  			<div class="col-md-4">
-  			<article class="post text-center">
-  			<div class="image-container position-relative">
-  			<div class="event_block_date text-light">
-  			<div class="month">Oct</div>
-  			<div class="day">23</div>
-  			</div>
-  			<img class="post-preview" src="/images/test.jpg" alt="Acoustic night">
-=======
-  			<img class="post-preview" src="/images/events/{{$event->image}}" alt="{{$event->title}}">
->>>>>>> 138eac44f5f41637fa71ed3390d74bf19b002e50
-  			</div>
-  			<h4>{{$event->title}}</h4>
-  			<p>{{ str_limit($event->dscr, 50, '') }}.</p>
-  			</article>
+	  			<article class="post text-center">
+	  			<div class="image-container position-relative">
+	  			<div class="event_block_date text-light">
+	  			<div class="month">Oct</div>
+	  			<div class="day">23</div>
+	  			</div>
+	  			<img class="post-preview" src="/images/events/{{$event->image}}" alt="{{$event->title}}">
+	  			</div>
+	  			<h4>{{$event->title}}</h4>
+	  			<p>{{ str_limit($event->dscr, 50, '') }}.</p>
+	  			</article>
   			</div>
 				@endforeach
   			</div>
@@ -2408,8 +2375,8 @@
 			</div>
 			<div class="gallery-box iso-call">
 				<div class="gal-project desert rest">
-					<a href="/images/test.jpg" data-toggle="lightbox">
-						<img src="/images/test.jpg" alt="">
+					<a href="/images/test2.jpg" data-toggle="lightbox">
+						<img src="/images/test2.jpg"  alt="">
 						<div class="hover-gal">
 							<div class="inner-gal">
 								<h2>Aliquam tincidunt</h2>
@@ -2419,8 +2386,8 @@
 					</a>
 				</div>
 				<div class="gal-project dinner">
-					<a href="/images/test.jpg" data-toggle="lightbox">
-						<img src="/images/test.jpg" alt="">
+					<a href="/images/test2.jpg" data-toggle="lightbox">
+						<img src="/images/test2.jpg" alt="">
 						<div class="hover-gal">
 							<div class="inner-gal">
 								<h2>Aliquam tincidunt</h2>
@@ -2430,8 +2397,8 @@
 					</a>
 				</div>
 				<div class="gal-project rest">
-					<a href="/images/test.jpg" data-toggle="lightbox">
-						<img src="/images/test.jpg" alt="">
+					<a href="/images/test2.jpg" data-toggle="lightbox">
+						<img src="/images/test2.jpg" alt="">
 						<div class="hover-gal">
 							<div class="inner-gal">
 								<h2>Aliquam tincidunt</h2>
@@ -2441,8 +2408,8 @@
 					</a>
 				</div>
 				<div class="gal-project rest">
-					<a href="/images/test.jpg" data-toggle="lightbox">
-						<img src="/images/test.jpg" alt="">
+					<a href="/images/test2.jpg" data-toggle="lightbox">
+						<img src="/images/test2.jpg" alt="">
 						<div class="hover-gal">
 							<div class="inner-gal">
 								<h2>Aliquam tincidunt</h2>
@@ -2452,8 +2419,8 @@
 					</a>
 				</div>
 				<div class="gal-project dinner">
-					<a href="/images/test.jpg" data-toggle="lightbox">
-						<img src="/images/test.jpg" alt="">
+					<a href="/images/test2.jpg" data-toggle="lightbox">
+						<img src="/images/test2.jpg" alt="">
 						<div class="hover-gal">
 							<div class="inner-gal">
 								<h2>Aliquam tincidunt</h2>
@@ -2463,8 +2430,8 @@
 					</a>
 				</div>
 				<div class="gal-project dinner">
-					<a href="/images/test.jpg" data-toggle="lightbox">
-						<img src="/images/test.jpg" alt="">
+					<a href="/images/test2.jpg" data-toggle="lightbox">
+						<img src="/images/test2.jpg" alt="">
 						<div class="hover-gal">
 							<div class="inner-gal">
 								<h2>Aliquam tincidunt</h2>
@@ -2474,8 +2441,8 @@
 					</a>
 				</div>
 				<div class="gal-project dinner">
-					<a href="/images/test.jpg" data-toggle="lightbox">
-						<img src="/images/test.jpg" alt="">
+					<a href="/images/test2.jpg" data-toggle="lightbox">
+						<img src="/images/test2.jpg" alt="">
 						<div class="hover-gal">
 							<div class="inner-gal">
 								<h2>Aliquam tincidunt</h2>
@@ -2485,8 +2452,8 @@
 					</a>
 				</div>
 				<div class="gal-project desert">
-					<a href="/images/test.jpg" data-toggle="lightbox">
-						<img src="/images/test.jpg" alt="">
+					<a href="/images/test2.jpg" data-toggle="lightbox">
+						<img src="/images/test2.jpg" alt="">
 						<div class="hover-gal">
 							<div class="inner-gal">
 								<h2>Aliquam tincidunt</h2>
