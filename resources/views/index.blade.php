@@ -275,7 +275,7 @@
 										<li>
 											<div class="list-image">
 												<a href="">
-													<img src="images/menu/croostini w black caviar.jpg" alt="">
+													<img src="/images/menu/croostini w black caviar.jpg" alt="">
 												</a>
 											</div>
 											<div class="list-content">
@@ -2370,102 +2370,20 @@
 					<h1>Our Gallery</h1>
 					<p>Morbi in sem quis dui placerat ornare. </p>
 				</div>
-				<ul class="filter">
-					<li><a class="active" href="#" data-filter="*">All</a></li>
-					<li><a href="#" data-filter=".desert">Desserts</a></li>
-					<li><a href="#" data-filter=".rest">Restaurant</a></li>
-					<li><a href="#" data-filter=".dinner">Dinner</a></li>
-				</ul>
 			</div>
 			<div class="gallery-box iso-call">
+				@foreach ($photos as $photo)
 				<div class="gal-project desert rest">
-					<a href="/images/test2.jpg" data-toggle="lightbox">
-						<img src="/images/test2.jpg"  alt="">
+					<a href="/images/gallery/{{$photo->image}}" data-toggle="lightbox">
+						<img src="/images/gallery/{{$photo->image}}"  alt="{{$photo->title}}">
 						<div class="hover-gal">
 							<div class="inner-gal">
-								<h2>Aliquam tincidunt</h2>
-								<span>Dinner</span>
+								<h2>{{$photo->title}}</h2>
 							</div>
 						</div>
 					</a>
 				</div>
-				<div class="gal-project dinner">
-					<a href="/images/test2.jpg" data-toggle="lightbox">
-						<img src="/images/test2.jpg" alt="">
-						<div class="hover-gal">
-							<div class="inner-gal">
-								<h2>Aliquam tincidunt</h2>
-								<span>Dinner</span>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="gal-project rest">
-					<a href="/images/test2.jpg" data-toggle="lightbox">
-						<img src="/images/test2.jpg" alt="">
-						<div class="hover-gal">
-							<div class="inner-gal">
-								<h2>Aliquam tincidunt</h2>
-								<span>Restaurant</span>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="gal-project rest">
-					<a href="/images/test2.jpg" data-toggle="lightbox">
-						<img src="/images/test2.jpg" alt="">
-						<div class="hover-gal">
-							<div class="inner-gal">
-								<h2>Aliquam tincidunt</h2>
-								<span>Restaurant</span>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="gal-project dinner">
-					<a href="/images/test2.jpg" data-toggle="lightbox">
-						<img src="/images/test2.jpg" alt="">
-						<div class="hover-gal">
-							<div class="inner-gal">
-								<h2>Aliquam tincidunt</h2>
-								<span>Dinner</span>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="gal-project dinner">
-					<a href="/images/test2.jpg" data-toggle="lightbox">
-						<img src="/images/test2.jpg" alt="">
-						<div class="hover-gal">
-							<div class="inner-gal">
-								<h2>Aliquam tincidunt</h2>
-								<span>Dinner</span>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="gal-project dinner">
-					<a href="/images/test2.jpg" data-toggle="lightbox">
-						<img src="/images/test2.jpg" alt="">
-						<div class="hover-gal">
-							<div class="inner-gal">
-								<h2>Aliquam tincidunt</h2>
-								<span>Dinner</span>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="gal-project desert">
-					<a href="/images/test2.jpg" data-toggle="lightbox">
-						<img src="/images/test2.jpg" alt="">
-						<div class="hover-gal">
-							<div class="inner-gal">
-								<h2>Aliquam tincidunt</h2>
-								<span>Dessert</span>
-							</div>
-						</div>
-					</a>
-				</div>
+				@endforeach
 			</div>
 		</section>
 		<!-- End gallery section -->

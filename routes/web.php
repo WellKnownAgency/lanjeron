@@ -13,12 +13,15 @@
 
 Route::get('/', function () {
    $events = App\Event::take(3)->latest()->get();
-    return view('index')->withEvents($events);
+   $photos = App\Photo::take(8)->latest()->get();
+    return view('index')->withEvents($events)->withPhotos($photos);
 });
 
 
 Route::middleware('auth:web')->group(function () {
   Route::resource('/admin/events', 'EventController');
+  Route::resource('/admin/photos', 'PhotoController');
   Route::get('/admin/events/{id}/delete', ['uses' => 'EventController@destroy', 'as' => 'event.delete']);
+  Route::get('/admin/photos/{id}/delete', ['uses' => 'PhotoController@destroy', 'as' => 'photo.delete']);
 });
 Auth::routes();

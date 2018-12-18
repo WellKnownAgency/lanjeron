@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Event;
+use App\Photo;
 use Image;
 use Illuminate\Http\Request;
 
@@ -17,7 +18,8 @@ class EventController extends Controller
   public function indexMain()
   {
     $events = Event::latest()->limit(3)->get();
-    return view('index')->withPosts($events);
+    $photos = Photo::latest()->limit(8)->get();
+    return view('index')->withPosts($events)->withPhotos($photos);
   }
 
   public function create()

@@ -16,6 +16,12 @@
         <a class="nav-link {{ Request::is('admin/events') ?"active-nav" : ""}}" href="/admin/events">
           Events
         </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link {{ Request::is('admin/photos') ?"active-nav" : ""}}" href="/admin/photos">
+          Photos
+        </a>
+      </li>
     </ul>
   </div>
 </nav>
