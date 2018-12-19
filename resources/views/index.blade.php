@@ -2348,7 +2348,7 @@
 	  			<div class="image-container position-relative">
 	  			<div class="event_block_date text-light">
 	  			<div class="month">Oct</div>
-	  			<div class="day">23</div>
+	  			<div class="day">{{ $event->date }}</div>
 	  			</div>
 	  			<img class="post-preview" src="/images/events/{{$event->image}}" alt="{{$event->title}}">
 	  			</div>
