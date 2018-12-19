@@ -99,7 +99,7 @@
 							<li><a href="#events-section">Events</a></li>
 							<li><a href="#gallery-section">Gallery</a></li>
 							<li><a href="#contact-section">Contact us</a></li>
-              <li><a href="tel:">(888) 888-8888</a></li>
+              <li><a href="tel:+12156714088">(215) 671-4088</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
@@ -2332,7 +2332,7 @@
 									</h1>
 									<p>13032 Bustleton Ave, <br> Philadelphia, PA 19116 </p>
 									<p>
-										<span>(215) 671-4088</span>
+										<a href="tel:+12156714088"><span>(215) 671-4088</span></a>
 									</p>
 									<ul class="social-icons">
 										<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
