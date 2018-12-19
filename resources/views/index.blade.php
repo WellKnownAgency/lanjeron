@@ -8,6 +8,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+	<link rel=icon href=/favicon.ico>
+
 	<link rel="stylesheet" href="css/lightbox.css">
 	<link rel="stylesheet" href="css/plato-assets.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
@@ -47,7 +49,7 @@
 								data-splitout="none"
 								data-elementdelay="0.05"
 								data-endelementdelay="0.05"
-								style="z-index: 8; white-space: nowrap;">Enjoy Our Food
+								style="z-index: 8; white-space: nowrap;">Welcome To Lanjeron
 							</div>
 
 							<!-- LAYER NR. 2 -->
@@ -62,81 +64,7 @@
 								data-splitout="none"
 								data-elementdelay="0.05"
 								data-endelementdelay="0.1"
-								style="z-index: 7; white-space: nowrap;">Only the best ingredients for our dishes
-							</div>
-
-						</li>
-						<!-- SLIDE  -->
-						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
-							<!-- MAIN IMAGE -->
-							<img src="/images/main1.jpg"  alt="slidebg1" data-lazyload="/images/main1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption finewide_medium_white lft tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="240"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1200"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.05"
-								style="z-index: 8; white-space: nowrap;">Elegant Interior and Design
-							</div>
-
-							<!-- LAYER NR. 2 -->
-							<div class="tp-caption small_text lfb tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="475"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1800"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.1"
-								style="z-index: 7; white-space: nowrap;">High-class Professional Service
-							</div>
-
-						</li>
-						<!-- SLIDE  -->
-						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
-							<!-- MAIN IMAGE -->
-							<img src="/images/main1.jpg"  alt="slidebg1" data-lazyload="/images/main1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption finewide_medium_white lft tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="240"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1200"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.05"
-								style="z-index: 8; white-space: nowrap;">Tradition &amp; Passion
-							</div>
-
-							<!-- LAYER NR. 2 -->
-							<div class="tp-caption small_text lfb tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="475"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1800"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.1"
-								style="z-index: 7; white-space: nowrap;">Only the best ingredients for our dishes
+								style="z-index: 7; white-space: nowrap;">Probable the Best place to celebrate your Event
 							</div>
 
 						</li>
@@ -171,7 +99,7 @@
 							<li><a href="#events-section">Events</a></li>
 							<li><a href="#gallery-section">Gallery</a></li>
 							<li><a href="#contact-section">Contact us</a></li>
-              <li><a href="tel:">(888) 888-8888</a></li>
+              <li><a href="tel:+12156714088">(215) 671-4088</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
@@ -185,7 +113,7 @@
 			<div class="container">
 				<div class="title-section">
 					<h1>About us</h1>
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam<br> malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
+					<p>The best place to celebrate any Event. Always great service and staff, outstanding and delicious food </br> followed by a great presentation. We provide fun and an amazing entertainment.</p>
 				</div>
 				<div class="about-box">
 					<div class="row">
@@ -197,8 +125,8 @@
 						</div>
 						<div class="col-md-6">
 							<div class="rest-about-box">
-								<h1>Our History</h1>
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. </p>
+								<h1>Our Story</h1>
+								<p>Celebrating important life events requires quality, service, and class. Lanjeron Restaurant encompasses all three, creating the ideal location for events such as weddings, anniversaries, birthday parties, bar mitzvahs, corporate gatherings and much more. </p>
 								<img src="/images/sign.png" alt="">
 							</div>
 						</div>
@@ -208,18 +136,18 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="rest-about-box">
-								<h1>Our Restorans</h1>
-								<p>Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. </p>
-								<p><span>If you have any questions, we are here to support you 24/7. We do our best to make your life happier and easier! See you soon!</span></p>
+								<h1>Our Restaurant </h1>
+								<p>Fine Russian cuisine is at the heart of the Lanjeron Restaurant experience, with extensive menus that discover taste sensations from across the vast country. Behind the scenes, the high-quality culinary masters prepare and create delicious dishes for every occasion. </p>
+								<p><span>If you have any questions, we are here to support you. We do our best to make your life happier and easier! See you soon!</span></p>
 								<div class="about-time">
 									<div class="row">
 										<div class="col-md-5 col-sm-6">
-											<p>Monday — Thursday</p>
-											<span>8 am — 11 pm</span>
+											<p>Wednesday — Thursday</p>
+											<span>1 pm — 6 pm</span>
 										</div>
 										<div class="col-md-5 col-sm-6">
 											<p>Friday — Sunday</p>
-											<span>11 am — 11 pm</span>
+											<span>12 pm — 14 am</span>
 										</div>
 									</div>
 								</div>
@@ -239,8 +167,7 @@
     <section id="menu-section">
 			<div class="container">
 				<div class="title-section">
-					<h1>Our Menu</h1>
-					<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna <br> nibh, viverra non, semper suscipit, posuere a, pede.</p>
+					<h1>Our Menus</h1>
 				</div>
 				<div class="menu-box">
 					<!-- Nav tabs -->
@@ -2339,7 +2266,6 @@
 			<div class="container">
         <div class="title-section">
           <h1>Events</h1>
-          <p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna <br> nibh, viverra non, semper suscipit, posuere a, pede.</p>
         </div>
   			<div class="row">
 					@foreach ($events as $event)
@@ -2406,7 +2332,7 @@
 									</h1>
 									<p>13032 Bustleton Ave, <br> Philadelphia, PA 19116 </p>
 									<p>
-										<span>(215) 671-4088</span>
+										<a href="tel:+12156714088"><span>(215) 671-4088</span></a>
 									</p>
 									<ul class="social-icons">
 										<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
@@ -2422,15 +2348,11 @@
 										Open Hours
 									</h1>
 									<p>
-										<span>Monday — Thursday</span>
-										<span class="time">12 pm - 11 pm</span>
+										<span>Wednesday — Thursday</span>
+										<span class="time">1 pm - 6 pm</span>
 									</p>
 									<p>
-										<span>Friday</span>
-										<span class="time">12 pm - 2 am</span>
-									</p>
-									<p>
-										<span>Saturday - Sunday</span>
+										<span>Friday - Sunday</span>
 										<span class="time">12 pm - 4 am</span>
 									</p>
 								</div>
