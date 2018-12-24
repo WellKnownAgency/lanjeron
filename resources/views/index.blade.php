@@ -87,7 +87,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="index.html"><img src="/images/logo.png" alt=""></a>
+						<a class="navbar-brand" href="#home-section" style="font-size:24px; color:#fff;">LANJERON</a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
@@ -99,7 +99,7 @@
 							<li><a href="#events-section">Events</a></li>
 							<li><a href="#gallery-section">Gallery</a></li>
 							<li><a href="#contact-section">Contact us</a></li>
-              <li><a href="tel:+12156714088">(215) 671-4088</a></li>
+              <li><a href="tel:+12156714088"  style="font-size:18px; color:#fff;">(215) 671-4088</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->
