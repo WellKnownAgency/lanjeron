@@ -191,8 +191,8 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<a href="/images/menu/burata.jpg" data-toggle="lightbox">
-													<img src="/images/menu/burata.jpg" alt="">
+												<a href="/images/menu/cured-salmon.jpg" data-toggle="lightbox">
+													<img src="/images/menu/cured-salmon.jpg" alt="">
 												</a>
 											</div>
 											<div class="list-content">
@@ -201,8 +201,8 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<a href="/images/menu/croostini w black caviar.jpg" data-toggle="lightbox">
-													<img src="/images/menu/croostini w black caviar.jpg" alt="">
+												<a href="/images/menu/cured-salmon.jpg" data-toggle="lightbox">
+													<img src="/images/menu/cured-salmon.jpg" alt="">
 												</a>
 											</div>
 											<div class="list-content">
@@ -2273,8 +2273,8 @@
 	  			<article class="post text-center">
 	  			<div class="image-container position-relative">
 	  			<div class="event_block_date text-light">
-	  			<div class="month">Oct</div>
-	  			<div class="day">{{ $event->date }}</div>
+	  			<div class="month">{{ Carbon\Carbon::parse($event->date)->format('M') }}</div>
+	  			<div class="day">{{ Carbon\Carbon::parse($event->date)->format('d') }}</div>
 	  			</div>
 	  			<img class="post-preview" src="/images/events/{{$event->image}}" alt="{{$event->title}}">
 	  			</div>
