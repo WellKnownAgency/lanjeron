@@ -34,7 +34,7 @@
 					<ul>	<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
 							<!-- MAIN IMAGE -->
-							<img src="/images/main1.jpg"  alt="slidebg1" data-lazyload="/images/main1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="/images/main.jpg"  alt="slidebg1" data-lazyload="/images/main.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -119,15 +119,14 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="image-holder">
-								<img src="upload/ab2.jpg" alt="">
-								<img class="snd-img" src="upload/ab1.jpg" alt="">
+								<img src="/images/about1.jpg" alt="">
+								<img class="snd-img" src="/images/about2.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="rest-about-box">
 								<h1>Our Story</h1>
 								<p>Celebrating important life events requires quality, service, and class. Lanjeron Restaurant encompasses all three, creating the ideal location for events such as weddings, anniversaries, birthday parties, bar mitzvahs, corporate gatherings and much more. </p>
-								<img src="/images/sign.png" alt="">
 							</div>
 						</div>
 					</div>
@@ -155,8 +154,8 @@
 						</div>
 						<div class="col-md-6">
 							<div class="image-holder">
-								<img src="upload/ab4.jpg" alt="">
-								<img class="snd-img" src="upload/ab3.jpg" alt="">
+								<img src="/images/about4.jpg" alt="">
+								<img class="snd-img" src="/images/about3.jpg" alt="">
 							</div>
 						</div>
 					</div>
@@ -164,7 +163,7 @@
 			</div>
 		</section>
 		<!-- End about section -->
-    <section id="menu-section">
+    <section id="menu-section" >
 			<div class="container">
 				<div class="title-section">
 					<h1>Our Menus</h1>
@@ -2590,7 +2589,7 @@
 			</div>
 		</section>
 
-    <section class="statistic-section" id="events-section">
+    <section class="statistic-section" id="events-section" style="padding-top:0;">
 			<div class="container">
         <div class="title-section">
           <h1>Events</h1>
@@ -2649,7 +2648,6 @@
 				<div class="container">
 					<div class="title-section white">
 						<h1>Get in Touch</h1>
-						<p>Sed arcu. Cras consequat.</p>
 					</div>
 					<div class="widget-area">
 						<div class="row">
@@ -2663,10 +2661,9 @@
 										<a href="tel:+12156714088"><span>(215) 671-4088</span></a>
 									</p>
 									<ul class="social-icons">
-										<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a class="twitter" href="#"><i class="fa fa-yelp"></i></a></li>
-										<li><a class="dribble" href="#"><i class="fa fa-tripadvisor"></i></a></li>
-										<li><a class="google" href="#"><i class="fa fa-google"></i></a></li>
+										<li><a class="facebook" href="https://www.facebook.com/Lanjeron-1408234845958586/"><i class="fa fa-facebook"></i></a></li>
+										<li><a class="twitter" href="https://www.yelp.com/biz/restaurant-lanjeron-philadelphia"><i class="fa fa-yelp"></i></a></li>
+										<li><a class="dribble" href="https://www.tripadvisor.com/Restaurant_Review-g60795-d898016-Reviews-Restaurant_Lanjeron-Philadelphia_Pennsylvania.html"><i class="fa fa-tripadvisor"></i></a></li>
 									</ul>
 								</div>
 							</div>
