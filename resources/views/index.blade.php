@@ -191,8 +191,8 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<a href="/images/menu/burata.jpg" data-toggle="lightbox">
-													<img src="/images/menu/burata.jpg" alt="">
+												<a href="/images/menu/cured-salmon.jpg" data-toggle="lightbox">
+													<img src="/images/menu/cured-salmon.jpg" alt="">
 												</a>
 											</div>
 											<div class="list-content">
@@ -201,8 +201,8 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<a href="/images/menu/croostini w black caviar.jpg" data-toggle="lightbox">
-													<img src="/images/menu/croostini w black caviar.jpg" alt="">
+												<a href="/images/menu/meat-assortment.jpg" data-toggle="lightbox">
+													<img src="/images/menu/meat-assortment.jpg" alt="">
 												</a>
 											</div>
 											<div class="list-content">
@@ -211,7 +211,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Greek salad</h2>
@@ -219,7 +221,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/pickled-veg.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pickled-veg.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Pickled vegetables</h2>
@@ -227,18 +231,22 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>Bassa with baked vegetables</h2>
+												<h2>Bassa with baked vegetables!</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>Shish-kebab chicken/pork 50/50</h2>
+												<h2>Shish-kebab chicken/pork 50/50!</h2>
 											</div>
 										</li>
 
@@ -248,31 +256,39 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>Tomato/feta cheese salad</h2>
+												<h2>Tomato/feta cheese salad!</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>Asian chicken salad </h2>
+												<h2>Asian chicken salad! </h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>Potatoes with herring (Russian style) </h2>
+												<h2>Potatoes with herring (Russian style)! </h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/pierogi.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pierogi.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Pirogues (Chicken meat)</h2>
@@ -280,7 +296,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assort-cakes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Cola, tea, regular coffee, Cakes	</h2>
@@ -296,7 +314,9 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/cured-salmon.jpg" data-toggle="lightbox">
+													<img src="/images/menu/cured-salmon.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Cured salmon</h2>
@@ -304,7 +324,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/meat-assortment.jpg" data-toggle="lightbox">
+													<img src="/images/menu/meat-assortment.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Meat Assortment</h2>
@@ -312,15 +334,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>Garden salad</h2>
+												<h2>Garden salad !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/pickled-veg.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pickled-veg.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Pickled vegetables</h2>
@@ -328,23 +354,29 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>Basil and Tomato Shrimp Salad</h2>
+												<h2>Basil and Tomato Shrimp Salad !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>Shish-kebab chicken/pork 50/50</h2>
+												<h2>Shish-kebab chicken/pork 50/50 !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/trout-pan.jpg" data-toggle="lightbox">
+													<img src="/images/menu/trout-pan.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Trout pan fried with stir-fry rice and vegetables</h2>
@@ -356,31 +388,39 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>Tomato/feta cheese salad</h2>
+												<h2>Tomato/feta cheese salad !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>Asian chicken salad </h2>
+												<h2>Asian chicken salad !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>Potatoes with herring (Russian style) </h2>
+												<h2>Potatoes with herring (Russian style) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/pierogi.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pierogi.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Pirogues (Chicken meat)</h2>
@@ -388,7 +428,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/crepes-with-red-caviar.jpg" data-toggle="lightbox">
+													<img src="/images/menu/crepes-with-red-caviar.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Crepes with red caviar</h2>
@@ -396,7 +438,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assort-cakes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>Cola, tea, regular coffee, Cakes	</h2>
@@ -421,7 +465,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/fish-assort.jpg" data-toggle="lightbox">
+													<img src="/images/menu/fish-assort.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FISH ASSORTMENT</h2>
@@ -429,7 +475,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/meat-assortment.jpg" data-toggle="lightbox">
+													<img src="/images/menu/meat-assortment.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>MEAT ASSORTMENT</h2>
@@ -440,12 +488,14 @@
 												<img src="upload/t4.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>HERRING (Russian Style)</h2>
+												<h2>HERRING (Russian Style) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/pickled-veg.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pickled-veg.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>PICKLED VEGETABLES (assortment)</h2>
@@ -456,7 +506,7 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>GARDEN SALAD</h2>
+												<h2>GARDEN SALAD !</h2>
 											</div>
 										</li>
 										<li>
@@ -464,7 +514,7 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>MAZZARELLA  CAPRESE  SALAD</h2>
+												<h2>MAZZARELLA  CAPRESE  SALAD !</h2>
 											</div>
 										</li>
 										<li>
@@ -472,12 +522,14 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>CHICKEN SALAD (MADONNA)</h2>
+												<h2>CHICKEN SALAD (MADONNA) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/ceasar-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/ceasar-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CEASAR SALAD</h2>
@@ -485,7 +537,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/seared-tuna.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seared-tuna.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SEARED TUNA</h2>
@@ -506,15 +560,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/seared-tuna.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seared-tuna.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>POTATOES FRIED / BOILED (Russian Style)</h2>
+												<h2>POTATOES FRIED / BOILED (Russian Style) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/trout-pan.jpg" data-toggle="lightbox">
+													<img src="/images/menu/trout-pan.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>TROUT W/VEGITABLES</h2>
@@ -522,7 +580,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/veal-stew-white.jpg" data-toggle="lightbox">
+													<img src="/images/menu/veal-stew-white.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>VEAL STEW IN WHITE WINE SAUCE</h2>
@@ -530,7 +590,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/pierogi.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pierogi.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>PIEROGI WITH MEAT/CHEESE</h2>
@@ -538,15 +600,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
-											</div>
-											<div class="list-content">
-												<h2>CREPES FRENCH STYLE</h2>
-											</div>
-										</li>
-										<li>
-											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/crepes-french.jpg" data-toggle="lightbox">
+													<img src="/images/menu/crepes-french.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CREPES FRENCH STYLE</h2>
@@ -562,18 +618,22 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/seared-tuna.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seared-tuna.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>SHISH-KEBAB CHICKEN</h2>
+												<h2>SHISH-KEBAB CHICKEN !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/seared-tuna.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seared-tuna.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>SHISH-KEBAB PORK</h2>
+												<h2>SHISH-KEBAB PORK !</h2>
 											</div>
 										</li>
 										<li>
@@ -586,7 +646,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/seared-tuna.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seared-tuna.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>TEA, COFFEE, COLA, SELTZER</h2>
@@ -594,7 +656,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assort-cakes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FRUITS, ICE CREAM, ASSORTED CAKES</h2>
@@ -619,7 +683,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/fish-assort.jpg" data-toggle="lightbox">
+													<img src="/images/menu/fish-assort.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FISH ASSORTMENT</h2>
@@ -627,7 +693,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/meat-assortment.jpg" data-toggle="lightbox">
+													<img src="/images/menu/meat-assortment.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>MEAT ASSORTMENT</h2>
@@ -638,12 +706,14 @@
 												<img src="upload/t4.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>HERRING (Russian Style)</h2>
+												<h2>HERRING (Russian Style) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/pickled-veg.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pickled-veg.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>PICKLED VEGETABLES (assortment)</h2>
@@ -651,7 +721,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>GREEK SALAD</h2>
@@ -662,7 +734,7 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>MAZZARELLA  CAPRESE  SALAD</h2>
+												<h2>MAZZARELLA  CAPRESE  SALAD !</h2>
 											</div>
 										</li>
 										<li>
@@ -670,12 +742,14 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>WALLDORF CHICKEN  SALAD </h2>
+												<h2>WALLDORF CHICKEN  SALAD !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/ceasar-shrimp.jpg" data-toggle="lightbox">
+													<img src="/images/menu/ceasar-shrimp.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CEASAR SALAD WITH PAN STEARED SHRIMP</h2>
@@ -683,7 +757,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/seared-tuna.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seared-tuna.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SEARED SESAME-CRUSTED TUNA</h2>
@@ -691,7 +767,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/georgian-eggplants.jpg" data-toggle="lightbox">
+													<img src="/images/menu/georgian-eggplants.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>GEORGIAN EGGPLANTS</h2>
@@ -714,12 +792,14 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>POTATOES FRIED / BOILED (Russian Style)</h2>
+												<h2>POTATOES FRIED / BOILED (Russian Style) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/crepes-with-red-caviar.jpg" data-toggle="lightbox">
+													<img src="/images/menu/crepes-with-red-caviar.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CREPES RED CAVIAR </h2>
@@ -727,7 +807,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/asian-shrimps.jpg" data-toggle="lightbox">
+													<img src="/images/menu/asian-shrimps.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>ASIAN STYLE SHRIMP W/ BAKED VEGETABLES</h2>
@@ -735,7 +817,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/backed-salmon-w-mashrooms.jpg" data-toggle="lightbox">
+													<img src="/images/menu/backed-salmon-w-mashrooms.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>BAKED SALMON AND MUSHROOMS W/MUSHED POTATOES IN CREAMY WHITE SAUCE</h2>
@@ -743,7 +827,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/pierogi.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pierogi.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>PIEROGI WITH MEAT AND CHEESE 50/50</h2>
@@ -759,10 +845,12 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/pierogi.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pierogi.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>CHICKEN “TABAKA”</h2>
+												<h2>CHICKEN “TABAKA” !</h2>
 											</div>
 										</li>
 										<li>
@@ -770,7 +858,7 @@
 												<img src="upload/t3.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>SHISH-KEBAB PORK/CHICKEN</h2>
+												<h2>SHISH-KEBAB PORK/CHICKEN !</h2>
 											</div>
 										</li>
 										<li>
@@ -791,7 +879,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assort-cake.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FRUITS, ICE CREAM, ASSORTED CAKES</h2>
@@ -816,7 +906,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/fish-assort.jpg" data-toggle="lightbox">
+													<img src="/images/menu/fish-assort.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FISH ASSORTMENT</h2>
@@ -824,7 +916,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/meat-assortment.jpg" data-toggle="lightbox">
+													<img src="/images/menu/meat-assortment.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>MEAT ASSORTMENT</h2>
@@ -835,12 +929,14 @@
 												<img src="upload/t4.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>HERRING (Russian Style)</h2>
+												<h2>HERRING (Russian Style) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/pickled-veg.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pickled-veg.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>PICKLED VEGETABLES (assortment)</h2>
@@ -848,7 +944,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>GREEK SALAD</h2>
@@ -859,7 +957,7 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>MAZZARELLA WITH TOMATOES & AVOCADO</h2>
+												<h2>MAZZARELLA WITH TOMATOES & AVOCADO !</h2>
 											</div>
 										</li>
 										<li>
@@ -867,12 +965,14 @@
 												<img src="upload/t2.jpg" alt="">
 											</div>
 											<div class="list-content">
-												<h2>MANHATTAN CHICKEN  SALAD </h2>
+												<h2>MANHATTAN CHICKEN  SALAD !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/large-shrimp-in-cocktail.jpg" data-toggle="lightbox">
+													<img src="/images/menu/large-shrimp-in-cocktail.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>LARGE SHRIMP LANJERON IN COCKTAIL SAUCE</h2>
@@ -880,7 +980,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/seared-tuna.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seared-tuna.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SEARED SESAME-CRUSTED TUNA</h2>
@@ -888,7 +990,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/potato-crostini.jpg" data-toggle="lightbox">
+													<img src="/images/menu/potato-crostini.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>POTATOES CROSTINI WITH RED CAVIAR</h2>
@@ -896,7 +1000,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/chargrilled-thai-beef.jpg" data-toggle="lightbox">
+													<img src="/images/menu/chargrilled-thai-beef.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CHARGRILLED THAI BEEF SALAD</h2>
@@ -916,15 +1022,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>POTATOES FRIED / BOILED (Russian Style)</h2>
+												<h2>POTATOES FRIED / BOILED (Russian Style) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/backed-salmon-w-mashrooms.jpg" data-toggle="lightbox">
+													<img src="/images/menu/backed-salmon-w-mashrooms.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>BACKED SALMON WITH MUSHROOMS, MUSHED POTATOES  AND BROCOLLI</h2>
@@ -932,7 +1042,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/asian-shrimps.jpg" data-toggle="lightbox">
+													<img src="/images/menu/asian-shrimps.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>ASIAN STYLE SHRIMPS WITH GRILL VEGETABLES </h2>
@@ -940,7 +1052,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/pierogi.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pierogi.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>PIEROGI WITH MEAT AND CHEESE 50/50</h2>
@@ -948,7 +1062,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/foie-gras.jpg" data-toggle="lightbox">
+													<img src="/images/menu/foie-gras.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>PAN–SEARED FOIE GRAS ON  TOASTED FRENCH BAGUETTE  IN RASPBERRY SAUCE </h2>
@@ -956,7 +1072,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i></strong></h1>
@@ -964,31 +1082,39 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>GRILLED LAMB CHOPS (with rosemary and thyme)</h2>
+												<h2>GRILLED LAMB CHOPS (with rosemary and thyme) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>SHISH-KEBOB PORK/CHICKEN 50/50 </h2>
+												<h2>SHISH-KEBOB PORK/CHICKEN 50/50 !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>SHOE STRING POTATOES</h2>
+												<h2>SHOE STRING POTATOES !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
@@ -996,7 +1122,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>TEA, COFFEE, COLA, SELTZER</h2>
@@ -1004,7 +1132,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assort-cakes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FRUITS, APPLE STRUDEL, ASSORTED CAKES</h2>
@@ -1029,7 +1159,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/fish-assort.jpg" data-toggle="lightbox">
+													<img src="/images/menu/fish-assort.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FISH ASSORTMENT  (nova lox, salmon, paddlefish)</h2>
@@ -1037,7 +1169,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/meat-assortment.jpg" data-toggle="lightbox">
+													<img src="/images/menu/meat-assortment.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>MEAT ASSORTMENT</h2>
@@ -1045,7 +1179,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/pickled-veg.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pickled-veg.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>PICKLED VEGETABLES (assortment)</h2>
@@ -1053,7 +1189,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/greek-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>GREEK SALAD</h2>
@@ -1061,15 +1199,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>BURATTO WITH ARUGULA AND TOMATOES	</h2>
+												<h2>BURATTO WITH ARUGULA AND TOMATOES	!</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/eel-salad-crispy-noodles.jpg" data-toggle="lightbox">
+													<img src="/images/menu/eel-salad-crispy-noodles.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>EEL SALAD W/CRISPY NOODLES</h2>
@@ -1077,7 +1219,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/seafood-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seafood-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SEAFOOD SALAD</h2>
@@ -1085,7 +1229,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/seared-tuna.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seared-tuna.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SEARED TUNA</h2>
@@ -1093,7 +1239,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/potato-crostini.jpg" data-toggle="lightbox">
+													<img src="/images/menu/potato-crostini.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>POTATOES CROSTINI WITH RED CAVIAR</h2>
@@ -1101,10 +1249,12 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/crispy-duck-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/crispy-duck-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>CRISPY  DUCK SALAD</h2>
+												<h2>CRISPY DUCK SALAD</h2>
 											</div>
 										</li>
 									</ul>
@@ -1121,7 +1271,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/spring-roll-lanjeron.jpg" data-toggle="lightbox">
+													<img src="/images/menu/spring-roll-lanjeron.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SPRING ROLL “Lanjeron” (shrimp, crab meat)</h2>
@@ -1129,7 +1281,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/backed-salmon-w-mashrooms.jpg" data-toggle="lightbox">
+													<img src="/images/menu/backed-salmon-w-mashrooms.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>BACKED SALMON WITH MUSHROOMS, MUSHED POTATOES  AND BROCOLLI</h2>
@@ -1137,7 +1291,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/potatoes-w-mushrooms.jpg" data-toggle="lightbox">
+													<img src="/images/menu/potatoes-w-mushrooms.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>POTATOES w/ MUSHR.</h2>
@@ -1145,7 +1301,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/foie-gras.jpg" data-toggle="lightbox">
+													<img src="/images/menu/foie-gras.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FOIE GRAS</h2>
@@ -1153,7 +1311,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/seafood-casserole.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seafood-casserole.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SEAFOOD CASSEROLE </h2>
@@ -1169,26 +1329,32 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>GRILLED LAMB CHOPS (with rosemary and thyme)</h2>
+												<h2>GRILLED LAMB CHOPS (with rosemary and thyme) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>SHISH-KEBOB PORK/CHICKEN 50/50 </h2>
+												<h2>SHISH-KEBOB PORK/CHICKEN 50/50 !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>STUFFED QUAILS </h2>
+												<h2>STUFFED QUAILS !</h2>
 											</div>
 										</li>
 										<li>
@@ -1209,7 +1375,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assort-cakes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FRUITS, APPLE STRUDEL W/ ICE CREAM,  ASSORTED CAKES PLATER</h2>
@@ -1234,7 +1402,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/seafood-salad-100.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seafood-salad-100.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SEAFOOD SALAD (avocado, scallops, mussels, shrimps, king crab meat)</h2>
@@ -1242,7 +1412,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/fish-assort.jpg" data-toggle="lightbox">
+													<img src="/images/menu/fish-assort.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FISH ASSORTMENT  </h2>
@@ -1250,7 +1422,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/burrata-w-prosciutto.jpg" data-toggle="lightbox">
+													<img src="/images/menu/burrata-w-prosciutto.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>BURRATA W/PROSCIUTTO</h2>
@@ -1258,7 +1432,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/tuna-tataki.jpg" data-toggle="lightbox">
+													<img src="/images/menu/tuna-tataki.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>TUNA TATAKI</h2>
@@ -1266,7 +1442,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/chargrilled-thai-beef.jpg" data-toggle="lightbox">
+													<img src="/images/menu/chargrilled-thai-beef.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CHARGRILLED THAI BEEF SALAD</h2>
@@ -1274,15 +1452,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>ARUGULA SALAD WITH BEETS AND GOAT CHEESE</h2>
+												<h2>ARUGULA SALAD WITH BEETS AND GOAT CHEESE !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/pickled-veg.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pickled-veg.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>PICKLED VEGETABLES (assortment)</h2>
@@ -1290,7 +1472,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/crostini-w-black-caviar.jpg" data-toggle="lightbox">
+													<img src="/images/menu/crostini-w-black-caviar.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CROSTINI W/BLACK CAVIAR</h2>
@@ -1298,7 +1482,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/potatoes-w-mushrooms.jpg" data-toggle="lightbox">
+													<img src="/images/menu/potatoes-w-mushrooms.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>POTATOES w/ MUSHROOM (Russian style)</h2>
@@ -1306,7 +1492,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/spring-roll-lanjeron.jpg" data-toggle="lightbox">
+													<img src="/images/menu/spring-roll-lanjeron.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SPRING ROLL “Lanjeron” (shrimp, crab meat)</h2>
@@ -1314,7 +1502,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/eel-salad-crispy-noodles.jpg" data-toggle="lightbox">
+													<img src="/images/menu/eel-salad-crispy-noodles.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>EEL SALAD W/CRISPY NOODLES </h2>
@@ -1330,7 +1520,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CREPES w/ SEAFOOD</h2>
@@ -1338,7 +1530,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/chilian-seabass.jpg" data-toggle="lightbox">
+													<img src="/images/menu/chilian-seabass.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CHILEAN SEA BASS</h2>
@@ -1346,15 +1540,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>CHICKEN CORDON BLUE</h2>
+												<h2>CHICKEN CORDON BLUE !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/foie-gras.jpg" data-toggle="lightbox">
+													<img src="/images/menu/foie-gras.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FOIE GRAS</h2>
@@ -1362,7 +1560,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/jumbo-lump-crub-cackes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/jumbo-lump-crub-cackes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>JUMBO LUMP CRAB CAKES (Chef special sauce)</h2>
@@ -1370,7 +1570,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/seafood-pasta-thai.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seafood-pasta-thai.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SEAFOOD PASTA THAI STYLE</h2>
@@ -1378,23 +1580,29 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>SHRIMP PAD THAI</h2>
+												<h2>SHRIMP PAD THAI !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>EDAMAME RAVIOLI</h2>
+												<h2>EDAMAME RAVIOLI !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/seafood-lanjeron.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seafood-lanjeron.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SEAFOOD “Lanjeron” (lobster tails, shrimps, sautéed scallops)</h2>
@@ -1415,15 +1623,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>QUALIS STUFFED w/ FOIE GRAS</h2>
+												<h2>QUALIS STUFFED w/ FOIE GRAS !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/rack-of-lamb.jpg" data-toggle="lightbox">
+													<img src="/images/menu/rack-of-lamb.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>RACK OF LAMB</h2>
@@ -1431,50 +1643,62 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>SPICY DUCK</h2>
+												<h2>SPICY DUCK !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>LAMB SHISH KEBAB (Uzbek style)</h2>
+												<h2>LAMB SHISH KEBAB (Uzbek style) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>RACK OF VEAL</h2>
+												<h2>RACK OF VEAL !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>SHISH KEBAB CHICKEN /PORK</h2>
+												<h2>SHISH KEBAB CHICKEN /PORK !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>LULYA-KEBAB</h2>
+												<h2>LULYA-KEBAB !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>AGED BEEF SLICED</h2>
+												<h2>AGED BEEF SLICED !</h2>
 											</div>
 										</li>
 										<li>
@@ -1495,7 +1719,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assort-cakes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FRUITS, APPLE STRUDEL W/ ICE CREAM,  ASSORTED CAKES PLATER</h2>
@@ -1503,7 +1729,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assort-cakes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CARAMEL, CRÈME BRULEE, ASSORTED CAKES</h2>
@@ -1527,15 +1755,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>LOBSTER SALAD (French style)</h2>
+												<h2>LOBSTER SALAD (French style) !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/fish-assort.jpg" data-toggle="lightbox">
+													<img src="/images/menu/fish-assort.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FISH ASSORTMENT </h2>
@@ -1543,15 +1775,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>SEAFOOD ASSORTMENT </h2>
+												<h2>SEAFOOD ASSORTMENT !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/burrata-w-prosciutto.jpg" data-toggle="lightbox">
+													<img src="/images/menu/burrata-w-prosciutto.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>BURRATA W/PROSCIUTTO</h2>
@@ -1559,7 +1795,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/seared-tuna.jpg" data-toggle="lightbox">
+													<img src="/images/menu/seared-tuna.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SEARED TUNA OR TUNA TARTARE </h2>
@@ -1567,7 +1805,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/chargrilled-thai-beef.jpg" data-toggle="lightbox">
+													<img src="/images/menu/chargrilled-thai-beef.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>THAI BEEF SALAD</h2>
@@ -1575,7 +1815,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/chicken-salad.jpg" data-toggle="lightbox">
+													<img src="/images/menu/chicken-salad.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CHICKEN SALAD </h2>
@@ -1583,7 +1825,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/country-pate.jpg" data-toggle="lightbox">
+													<img src="/images/menu/country-pate.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>COUNTRY PATE (chicken/goose pate)</h2>
@@ -1591,7 +1835,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/apple-goatcheese.jpg" data-toggle="lightbox">
+													<img src="/images/menu/apple-goatcheese.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>APPLE, CRANBERRY & GOAT CHEESE SALAD</h2>
@@ -1599,7 +1845,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/pickled-veg.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pickled-veg.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>PICKLED VEGETABLES (assortment)</h2>
@@ -1607,7 +1855,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/spring-roll-lanjeron.jpg" data-toggle="lightbox">
+													<img src="/images/menu/spring-roll-lanjeron.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SPRING ROLL “Lanjeron” (shrimp, crab meat)</h2>
@@ -1615,7 +1865,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/crostini-w-black-caviar.jpg" data-toggle="lightbox">
+													<img src="/images/menu/crostini-w-black-caviar.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CROSTINI  w/ BLACK CAVIAR</h2>
@@ -1623,7 +1875,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/potatoes-w-mushrooms.jpg" data-toggle="lightbox">
+													<img src="/images/menu/potatoes-w-mushrooms.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>POTATOES w/ MUSHROOM (Russian style)</h2>
@@ -1639,7 +1893,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CREPES w/ SEAFOOD</h2>
@@ -1647,7 +1903,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/chilian-seabass.jpg" data-toggle="lightbox">
+													<img src="/images/menu/chilian-seabass.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CHILEAN SEA BASS</h2>
@@ -1663,7 +1921,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/foie-gras.jpg" data-toggle="lightbox">
+													<img src="/images/menu/foie-gras.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FOIE GRAS</h2>
@@ -1671,7 +1931,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/jumbo-lump-crub-cackes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/jumbo-lump-crub-cackes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>JUMBO LUMP CRAB CAKES (Chef special sauce)</h2>
@@ -1739,7 +2001,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/rack-of-lamb.jpg" data-toggle="lightbox">
+													<img src="/images/menu/rack-of-lamb.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>RACK OF LAMB</h2>
@@ -1819,7 +2083,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assort-cakes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FRUITS, APPLE STRUDEL W/ ICE CREAM,  ASSORTED CAKES PLATER</h2>
@@ -1827,7 +2093,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assort-cakes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CARAMEL, CRÈME BRULEE, ASSORTED CAKES</h2>
@@ -1859,7 +2127,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/fish-assort.jpg" data-toggle="lightbox">
+													<img src="/images/menu/fish-assort.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FISH ASSORTMENT (nova lox, sturgeon, black caviar, salmon)</h2>
@@ -1867,7 +2137,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/meat-assortment.jpg" data-toggle="lightbox">
+													<img src="/images/menu/meat-assortment.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>MEAT ASSORTMENT (veal, smoked duck breast, busturma)</h2>
@@ -1883,7 +2155,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/pickled-veg.jpg" data-toggle="lightbox">
+													<img src="/images/menu/pickled-veg.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>PICKLED VEGETABLES (assortment)</h2>
@@ -1891,10 +2165,12 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/burrata-w-prosciutto.jpg" data-toggle="lightbox">
+													<img src="/images/menu/burrata-w-prosciutto.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>BURRATA W/PROSHUTO	</h2>
+												<h2>BURRATA W/PROSCIUTTO	</h2>
 											</div>
 										</li>
 										<li>
@@ -1907,7 +2183,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/spring-roll-lanjeron.jpg" data-toggle="lightbox">
+													<img src="/images/menu/spring-roll-lanjeron.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>SPRING ROLL “Lanjeron” (shrimp, crab meat)</h2>
@@ -1915,7 +2193,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/eel-salad-crispy-noodles.jpg" data-toggle="lightbox">
+													<img src="/images/menu/eel-salad-crispy-noodles.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>EEL SALAD W/CRISPY NOODLES	</h2>
@@ -1931,7 +2211,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/potatoes-w-mushrooms.jpg" data-toggle="lightbox">
+													<img src="/images/menu/potatoes-w-mushrooms.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>POTATOES w/ MUSHROOMS</h2>
@@ -1939,7 +2221,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/country-pate.jpg" data-toggle="lightbox">
+													<img src="/images/menu/country-pate.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>COUNTRY PATE (Chicken/Goose pate)</h2>
@@ -1979,7 +2263,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/chilian-seabass.jpg" data-toggle="lightbox">
+													<img src="/images/menu/chilian-seabass.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CHILEAN SEA BASS</h2>
@@ -1987,15 +2273,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>CHICKEN CORDON BLUE</h2>
+												<h2>CHICKEN CORDON BLUE !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/foie-gras.jpg" data-toggle="lightbox">
+													<img src="/images/menu/foie-gras.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FOIE GRAS</h2>
@@ -2003,7 +2293,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/jumbo-lump-crub-cackes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/jumbo-lump-crub-cackes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CRAB CAKES</h2>
@@ -2011,7 +2303,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/colossal-shrimp.jpg" data-toggle="lightbox">
+													<img src="/images/menu/colossal-shrimp.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>COLOSSAL SHRIMP PAD THAI</h2>
@@ -2019,7 +2313,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/craw-fish-tails.jpg" data-toggle="lightbox">
+													<img src="/images/menu/craw-fish-tails.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CRAW FISH TAILS & WILD MUSHROOMS</h2>
@@ -2027,15 +2323,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>EDAMAME RAVIOLI</h2>
+												<h2>EDAMAME RAVIOLI !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/lobster-tail-champaign.jpg" data-toggle="lightbox">
+													<img src="/images/menu/lobster-tail-champaign.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>LOBSTER TAIL CHAMPAGNE SAUCE</h2>
@@ -2043,7 +2343,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/red-snapper.jpg" data-toggle="lightbox">
+													<img src="/images/menu/red-snapper.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>RED SNAPPER</h2>
@@ -2063,23 +2365,29 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>QUALIS STUFFED w/ FOIE GRAS</h2>
+												<h2>QUALIS STUFFED w/ FOIE GRAS !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>RACK OF VEAL</h2>
+												<h2>RACK OF VEAL !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/fillet-mignon.jpg" data-toggle="lightbox">
+													<img src="/images/menu/fillet-mignon.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FILLET MIGNON</h2>
@@ -2087,15 +2395,19 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>SHISH KEBAB CHICKEN /PORK/LAMB</h2>
+												<h2>SHISH KEBAB CHICKEN /PORK/LAMB !</h2>
 											</div>
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/beef-wellington.jpg" data-toggle="lightbox">
+													<img src="/images/menu/beef-wellington.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>BEEF WELLINGTON</h2>
@@ -2103,10 +2415,12 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
-												<h2>LAMB CHOPS</h2>
+												<h2>LAMB CHOPS !</h2>
 											</div>
 										</li>
 										<li>
@@ -2127,7 +2441,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assort-cakes.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>FRUITS, APPLE STRUDEL W/ ICE CREAM,  ASSORTED CAKES PLATER</h2>
@@ -2207,7 +2523,9 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/plov.jpg" data-toggle="lightbox">
+													<img src="/images/menu/plov.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>“PLOV” LAMB-PILAF (Serv. 6-7) <span>$50</span></h2>
@@ -2215,7 +2533,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<a href="/images/menu/lobster-extra.jpg" data-toggle="lightbox">
+													<img src="/images/menu/lobster-extra.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>CRAZY LOBSTER (crab & shrimp) <span>$75</span></h2>
@@ -2223,7 +2543,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<a href="/images/menu/roasted-leg-lamb.jpg" data-toggle="lightbox">
+													<img src="/images/menu/roasted-leg-lamb.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>ROASTED LEG OF LAMB (Serv. 10) <span>$120</span></h2>
@@ -2231,7 +2553,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<a href="/images/menu/.jpg" data-toggle="lightbox">
+													<img src="/images/menu/.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>ALEXANDER CASSAROLE (Serv. 5)  <span>$50</span></h2>
@@ -2239,7 +2563,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/roasted-duck.jpg" data-toggle="lightbox">
+													<img src="/images/menu/roasted-duck.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>ROASTED DUCK (Stuff w/ apples) <span>$45</span></h2>
@@ -2247,7 +2573,9 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<a href="/images/menu/assorted-cheese-plat.jpg" data-toggle="lightbox">
+													<img src="/images/menu/assorted-cheese-plat.jpg" alt="">
+												</a>
 											</div>
 											<div class="list-content">
 												<h2>ASSORTED CHEESE PLATER & CRACKERS (50 crackers) <span>$20</span></h2>
