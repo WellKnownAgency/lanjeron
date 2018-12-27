@@ -24,9 +24,9 @@
             <thead class="thead-light">
               <tr>
                 <th scope="col">Title</th>
-                <th scope="col">Slug</th>
                 <th scope="col">Image</th>
-                <th scope="col">Created date</th>
+                <th scope="col">Event date</th>
+                <th scope="col">Created</th>
                 <th scope="col"></th>
               </tr>
             </thead>
@@ -34,9 +34,9 @@
               @foreach ($events as $event)
               <tr>
                 <th scope="row">{{ $event->title }}</th>
-                <td>{{ $event->slug }}</td>
-                <td>{{ $event->image }}</td>
-                <td>{{ $event->created_at}}</td>
+                <td><img src="/images/events/{{$event->image}}" width="50px;" height"auto"></td>
+                <td>{{ Carbon\Carbon::parse($event->date)->format('d M') }}</td>
+                <td>{{ Carbon\Carbon::now()->parse($event->created_at)->diffForHumans() }}</td>
                 <td>
                   <a href="/admin/events/{{ $event->id }}/delete" class="btn btn-danger btn-sm delete">Delete</a>
                 </td>

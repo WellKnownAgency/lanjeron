@@ -33,8 +33,8 @@
               @foreach ($photos as $photo)
               <tr>
                 <th scope="row">{{ $photo->title }}</th>
-                <td>{{ $photo->image }}</td>
-                <td>{{ $photo->created_at}}</td>
+                <td><img src="/images/gallery/{{$photo->image}}" width="50px;" height"auto"></td>
+                <td>{{ Carbon\Carbon::now()->parse($photo->created_at)->diffForHumans() }}</td>
                 <td>
                   <a href="/admin/photos/{{ $photo->id }}/delete" class="btn btn-danger btn-sm delete">Delete</a>
                 </td>
