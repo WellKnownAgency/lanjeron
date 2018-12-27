@@ -64,7 +64,7 @@
 								data-splitout="none"
 								data-elementdelay="0.05"
 								data-endelementdelay="0.1"
-								style="z-index: 7; white-space: nowrap;">Probable the Best place to celebrate your Event
+								style="z-index: 7; white-space: nowrap;">Great place to celebrate your Event
 							</div>
 
 						</li>

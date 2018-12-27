@@ -19,6 +19,11 @@ Route::get('/', function () {
 
 
 Route::middleware('auth:web')->group(function () {
+  Route::get('/admin', function () {
+    $events = App\Event::take(3)->latest()->get();
+    $photos = App\Photo::take(8)->latest()->get();
+     return view('admin.index')->withEvents($events)->withPhotos($photos);
+  });
   Route::resource('/admin/events', 'EventController');
   Route::resource('/admin/photos', 'PhotoController');
   Route::get('/admin/events/{id}/delete', ['uses' => 'EventController@destroy', 'as' => 'event.delete']);

@@ -6,7 +6,7 @@
   <div class="col-lg-3 col-md-3 col-sm-5 col-xs-5">
   <div class="logo">
     <a href="/admin" title="Lanjeron">
-      <img class="img-responsive" src="/images/lanjeron.png" height="110" alt="">
+      <b>Lanjeron</b>
     </a>
   </div><!--end logo-->
   </div>
