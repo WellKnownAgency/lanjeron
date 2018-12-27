@@ -2606,7 +2606,7 @@
 	  			<img class="post-preview" src="/images/events/{{$event->image}}" alt="{{$event->title}}">
 	  			</div>
 	  			<h4>{{$event->title}}</h4>
-	  			<p>{{ str_limit($event->dscr, 255, '') }}.</p>
+	  			<p>{{ str_limit($event->dscr, 255, '') }}</p>
 	  			</article>
   			</div>
 				@endforeach
