@@ -47,7 +47,7 @@ $(document).ready(function($) {
 			var selector = $filter.find('a.active').attr('data-filter');
 
 			try {
-				$container.isotope({ 
+				$container.isotope({
 					filter	: selector,
 					animationOptions: {
 						duration: 750,
@@ -59,13 +59,13 @@ $(document).ready(function($) {
 			}
 			return false;
 		});
-		
-		// Isotope Filter 
+
+		// Isotope Filter
 		$filter.find('a').on('click', function(){
 			var selector = $(this).attr('data-filter');
 
 			try {
-				$container.isotope({ 
+				$container.isotope({
 					filter	: selector,
 					animationOptions: {
 						duration: 750,
@@ -96,7 +96,7 @@ $(document).ready(function($) {
 	/*-------------------------------------------------*/
 	/* =  Search animation
 	/*-------------------------------------------------*/
-	
+
 	var searchToggle = $('.open-search'),
 		inputAnime = $(".form-search"),
 		body = $('body');
@@ -107,7 +107,7 @@ $(document).ready(function($) {
 		if ( !inputAnime.hasClass('active') ) {
 			inputAnime.addClass('active');
 		} else {
-			inputAnime.removeClass('active');			
+			inputAnime.removeClass('active');
 		}
 	});
 
@@ -191,51 +191,6 @@ $(document).ready(function($) {
 
 		});
 	
-	
-	/* ---------------------------------------------------------------------- */
-	/*	Contact Map
-	/* ---------------------------------------------------------------------- */
-
-	var fenway = [42.345573,-71.038326]; //Change a map coordinate here!
-	var markerPosition = [42.345573,-71.038326]; //Change a map marker here!
-	$('.map')
-		.gmap3({
-			center:fenway,
-			zoom: 14,
-			mapTypeId: "shadeOfGrey", // to select it directly
-			scrollwheel: false,
-			mapTypeControlOptions: {
-				mapTypeIds: [google.maps.MapTypeId.ROADMAP, "shadeOfGrey"]
-			}
-		})
-		.styledmaptype(
-		"shadeOfGrey",
-		[
-			{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":36},{"color":"#000000"},{"lightness":60}]},
-			{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#000000"},{"lightness":100}]},
-			{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},
-			{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":90}]},
-			{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":87},{"weight":1.2}]},
-			{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#f8f2e4"},{"lightness":0}]},
-			{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#b4e3c7"},{"lightness":0}]},
-			{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#d9ceac"},{"lightness":0}]},
-			{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#d2c59d"},{"lightness":100},{"weight":0.2}]},
-			{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#ffffff"},{"lightness":0}]},
-			{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#efebe4"},{"lightness":0}]},
-			{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#ffffff"},{"lightness":0}]},
-			{"featureType":"water","elementType":"geometry","stylers":[{"color":"#bad8fb"},{"lightness":0}]}
-		],
-		{name: "Shades of Grey"});
-		$('.map')
-			.gmap3({
-				center: fenway,
-				zoom: 13,
-				mapTypeId : google.maps.MapTypeId.ROADMAP
-			})
-			.marker({
-				position: markerPosition,
-				icon: 'images/marker.png'
-		});
 
 	/*-------------------------------------------------*/
 	/* =  count increment
@@ -266,7 +221,7 @@ $(document).ready(function($) {
 		e.preventDefault();
 
 		var $this = $(this);
-		
+
 		$.ajax({
 			type: "POST",
 			url: 'contact.php',
@@ -310,7 +265,7 @@ $(document).ready(function($) {
 				$('.navigate-section > li > a[href*=#'+containerID+']').addClass('active');
 			}
 		} , { offset: '78px' } );
-		
+
 		$(this).waypoint( function( direction ) {
 			if( direction === 'up' ) {
 				var containerID = $(this).attr('id');
@@ -328,7 +283,7 @@ $(document).ready(function($) {
 	// Do our DOM lookups beforehand
 	var nav_container = $("header");
 	var nav = $(".navbar");
-	
+
 	var top_spacing = 0;
 	var waypoint_offset = -78;
 
@@ -336,18 +291,18 @@ $(document).ready(function($) {
 		handler: function(direction) {
 			if (direction == 'down') {
 
-				nav_container.css({ 'height':nav.outerHeight() });		
+				nav_container.css({ 'height':nav.outerHeight() });
 				nav.stop().addClass("active").css("top",-nav.outerHeight()).animate({"top":top_spacing});
 				//nav_container.stop().addClass("active").css("top",-nav.outerHeight()).animate({"top":top_spacing});
-				
+
 			} else {
-				
+
 				nav_container.css({ 'height':'78px' });
 				nav.stop().removeClass("active").css("top",nav.outerHeight()+waypoint_offset).animate({"top":""});
 				//nav_container.stop().removeClass("active").css("top",nav.outerHeight()+waypoint_offset).animate({"top":""});
-				
+
 			}
-			
+
 		},
 		offset: function() {
 			return -nav.outerHeight()-waypoint_offset;

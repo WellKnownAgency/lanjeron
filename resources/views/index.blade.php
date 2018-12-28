@@ -119,7 +119,7 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="image-holder">
-								<img src="/images/about1.jpg" alt="">
+								<img src="/images/about2.jpg" alt="">
 								<img class="snd-img" src="/images/about2.jpg" alt="">
 							</div>
 						</div>
@@ -456,7 +456,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i></strong></h1>
@@ -484,7 +484,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>HERRING (Russian Style) !</h2>
@@ -502,7 +502,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>GARDEN SALAD !</h2>
@@ -510,7 +510,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>MAZZARELLA  CAPRESE  SALAD !</h2>
@@ -518,7 +518,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>CHICKEN SALAD (MADONNA) !</h2>
@@ -551,7 +551,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i></strong></h1>
@@ -609,7 +609,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i></strong></h1>
@@ -637,7 +637,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
@@ -674,7 +674,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i></strong></h1>
@@ -702,7 +702,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>HERRING (Russian Style) !</h2>
@@ -730,7 +730,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>MAZZARELLA  CAPRESE  SALAD !</h2>
@@ -738,7 +738,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>WALLDORF CHICKEN  SALAD !</h2>
@@ -780,7 +780,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i></strong></h1>
@@ -788,7 +788,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>POTATOES FRIED / BOILED (Russian Style) !</h2>
@@ -836,7 +836,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i></strong></h1>
@@ -854,7 +854,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>SHISH-KEBAB PORK/CHICKEN !</h2>
@@ -862,7 +862,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
@@ -870,7 +870,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>TEA, COFFEE, COLA, SELTZER</h2>
@@ -897,7 +897,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i></strong></h1>
@@ -925,7 +925,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>HERRING (Russian Style) !</h2>
@@ -953,7 +953,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>MAZZARELLA WITH TOMATOES & AVOCADO !</h2>
@@ -961,7 +961,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>MANHATTAN CHICKEN  SALAD !</h2>
@@ -1013,7 +1013,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i></strong></h1>
@@ -1150,7 +1150,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers:</i></strong></h1>
@@ -1262,7 +1262,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers:</i></strong></h1>
@@ -1320,7 +1320,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Entrees:</i></strong></h1>
@@ -1358,7 +1358,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
@@ -1366,7 +1366,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>TEA, COFFEE, COLA, SELTZER</h2>
@@ -1393,7 +1393,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers (all included):</i></strong></h1>
@@ -1511,7 +1511,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers (Choice of 3 items):</i></strong></h1>
@@ -1614,7 +1614,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Entrees (Choice of 2 items):</i></strong></h1>
@@ -1702,7 +1702,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
@@ -1710,7 +1710,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>TEA, COFFEE, COLA, SELTZER</h2>
@@ -1746,7 +1746,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers (all included):</i></strong></h1>
@@ -1884,7 +1884,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers (Choice of 3 items):</i></strong></h1>
@@ -1912,7 +1912,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>CHICKEN CORDON BLUE</h2>
@@ -1940,7 +1940,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>SEARED SCALLOPS W/ASPARAGUS</h2>
@@ -1948,7 +1948,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>CRAWFISH TAILS & WILD MUSHROOMS FILLO DOUGH</h2>
@@ -1956,7 +1956,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>EDAMAME RAVIOLI</h2>
@@ -1964,7 +1964,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>SEAFOOD “Lanjeron” (lobster tails, shrimps, sautéed scallops)</h2>
@@ -1972,7 +1972,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>RED SNAPPER</h2>
@@ -1984,7 +1984,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Entrees (Choice of 2 items):</i></strong></h1>
@@ -1992,7 +1992,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>QUALIS STUFFED w/ FOIE GRAS</h2>
@@ -2010,7 +2010,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>FILLET MIGNON (w/vegetables)</h2>
@@ -2018,7 +2018,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>LAMB SHISH KEBAB (Uzbek style)</h2>
@@ -2026,7 +2026,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>RACK OF VEAL</h2>
@@ -2034,7 +2034,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>SHISH KEBAB CHICKEN /PORK</h2>
@@ -2042,7 +2042,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>BEEF WELLINGTON</h2>
@@ -2050,7 +2050,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>AGED BEEF SLICED</h2>
@@ -2058,7 +2058,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>DUCK BREAST(berry sauce)</h2>
@@ -2066,7 +2066,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
@@ -2074,7 +2074,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>TEA, COFFEE, COLA, SELTZER</h2>
@@ -2110,7 +2110,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Cold Appetizers (all included):</i></strong></h1>
@@ -2118,7 +2118,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>SEAFOOD SALAD DELUX	(scallops, mussels, shrimps, lobster)</h2>
@@ -2146,7 +2146,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>HERRING WITH (finger ling potatoes, sour cream & dill)</h2>
@@ -2174,7 +2174,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>LOBSTER ALA RUSSE</h2>
@@ -2202,7 +2202,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>CRUDITE FRESH VEGETABLES</h2>
@@ -2230,7 +2230,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>DUCK SALAD</h2>
@@ -2238,7 +2238,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>SEARED SCALLOPS</h2>
@@ -2246,7 +2246,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Hot Appetizers (Choice of 3 items):</i></strong></h1>
@@ -2254,7 +2254,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>DUCK W/APPLES</h2>
@@ -2356,7 +2356,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Entrees (Choice of 2 items):</i></strong></h1>
@@ -2424,7 +2424,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Desserts:</i></strong></h1>
@@ -2432,7 +2432,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>TEA, COFFEE, COLA, SELTZER</h2>
@@ -2450,7 +2450,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>CARAMEL, CRÈME BRULEE, ASSORTED FRENCH PASTRY</h2>
@@ -2466,7 +2466,7 @@
 									<ul class="menu-list-items">
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2 style="font-size:1.5em;"><strong><i>Kids Menu $25:</i></strong></h1>
@@ -2474,7 +2474,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>French fries</h2>
@@ -2482,7 +2482,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t2.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>Pizza</h2>
@@ -2490,7 +2490,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t3.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>Mazzarella sticks</h2>
@@ -2498,7 +2498,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t4.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>Chicken nuggets</h2>
@@ -2506,7 +2506,7 @@
 										</li>
 										<li>
 											<div class="list-image">
-												<img src="upload/t1.jpg" alt="">
+												<img src="" alt="">
 											</div>
 											<div class="list-content">
 												<h2>Green salad</h2>
@@ -2710,8 +2710,6 @@
 	<script src="js/jquery.appear.js"></script>
 	<script src="js/jquery.countTo.js"></script>
 	<script src="js/waypoint.min.js"></script>
-  	<script src="http://maps.google.com/maps/api/js?key=AIzaSyCiqrIen8rWQrvJsu-7f4rOta0fmI5r2SI&amp;sensor=false&amp;language=en"></script>
-	<script src="js/gmap3.min.js"></script>
 	<script src="js/script.js"></script>
 	<script src="js/lightbox.js"></script>
 	<script>
