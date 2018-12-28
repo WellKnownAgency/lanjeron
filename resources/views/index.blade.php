@@ -2686,7 +2686,6 @@
 				</div>
 			</div>
 			</div>
-			<div class="map"></div>
 		</section>
 		<!-- End contact section -->
 
