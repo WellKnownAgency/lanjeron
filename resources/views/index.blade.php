@@ -2620,7 +2620,6 @@
 			<div class="container">
 				<div class="title-section">
 					<h1>Our Gallery</h1>
-					<p>Morbi in sem quis dui placerat ornare. </p>
 				</div>
 			</div>
 			<div class="gallery-box iso-call">
