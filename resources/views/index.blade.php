@@ -34,7 +34,7 @@
 					<ul>	<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
 							<!-- MAIN IMAGE -->
-							<img src="/images/main.jpg"  alt="slidebg1" data-lazyload="/images/main.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="/images/main.jpg"  alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -119,8 +119,8 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="image-holder">
-								<img src="/images/about1.jpg" data-lazyload="/images/about1.jpg" alt="">
-								<img class="snd-img" src="/images/about2.jpg" data-lazyload="/images/about2.jpg" alt="">
+								<img src="/images/about1.jpg"  alt="">
+								<img class="snd-img" src="/images/about2.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-md-6">
@@ -154,7 +154,7 @@
 						</div>
 						<div class="col-md-6">
 							<div class="image-holder">
-								<img src="/images/about4.jpg" data-lazyload="/images/about4.jpg" alt="">
+								<img src="/images/about4.jpg" alt="">
 								<img class="snd-img" src="/images/about3.jpg" alt="">
 							</div>
 						</div>
@@ -191,7 +191,7 @@
 										<li>
 											<div class="list-image">
 												<a href="/images/menu/cured-salmon.jpg" data-toggle="lightbox">
-													<img src="/images/menu/cured-salmon.jpg" data-lazyload="/images/menu/cured-salmon.jpg" alt="">
+													<img src="/images/menu/cured-salmon.jpg"  alt="">
 												</a>
 											</div>
 											<div class="list-content">
@@ -2603,7 +2603,7 @@
 	  			<div class="month">{{ Carbon\Carbon::parse($event->date)->format('M') }}</div>
 	  			<div class="day">{{ Carbon\Carbon::parse($event->date)->format('d') }}</div>
 	  			</div>
-	  			<img class="post-preview" src="/images/events/{{$event->image}}" data-lazyload="/images/events/{{$event->image}}" alt="{{$event->title}}">
+	  			<img class="post-preview" src="/images/events/{{$event->image}}" alt="{{$event->title}}">
 	  			</div>
 	  			<h4>{{$event->title}}</h4>
 	  			<p>{{ str_limit($event->dscr, 255, '') }}</p>
@@ -2626,7 +2626,7 @@
 				@foreach ($photos as $photo)
 				<div class="gal-project desert rest">
 					<a href="/images/gallery/{{$photo->image}}" data-toggle="lightbox">
-						<img src="/images/gallery/{{$photo->image}}" data-lazyload="/images/gallery/{{$photo->image}}"  alt="{{$photo->title}}">
+						<img src="/images/gallery/{{$photo->image}}"  alt="{{$photo->title}}">
 						<div class="hover-gal">
 							<div class="inner-gal">
 								<h2>{{$photo->title}}</h2>
