@@ -146,7 +146,7 @@
 										</div>
 										<div class="col-md-5 col-sm-6">
 											<p>Friday — Sunday</p>
-											<span>12 pm — 14 am</span>
+											<span>12 pm — 4 am</span>
 										</div>
 									</div>
 								</div>
