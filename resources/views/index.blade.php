@@ -32,7 +32,7 @@
 			<div class="tp-banner-container">
 				<div class="tp-banner" >
 					<ul>	<!-- SLIDE  -->
-						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
+						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on">
 							<!-- MAIN IMAGE -->
 							<img src="/images/main.jpg"  alt="slidebg1" data-lazyload="/images/main.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
@@ -146,7 +146,7 @@
 										</div>
 										<div class="col-md-5 col-sm-6">
 											<p>Friday — Sunday</p>
-											<span>12 pm — 14 am</span>
+											<span>12 pm — 4 am</span>
 										</div>
 									</div>
 								</div>
