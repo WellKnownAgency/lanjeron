@@ -171,142 +171,58 @@
 				<div class="menu-box">
 					<!-- Nav tabs -->
 					<ul class="nav nav-tabs" role="tablist">
-						<li role="presentation" class="active li-padding"><a href="#Banquet40" aria-controls="Banquet $40" role="tab" data-toggle="tab">Banquet $40</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet50" aria-controls="Banquet $50" role="tab" data-toggle="tab">$50</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet60" aria-controls="Banquet $60" role="tab" data-toggle="tab">$60</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet70" aria-controls="Banquet $70" role="tab" data-toggle="tab">$70</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet80" aria-controls="Banquet $80" role="tab" data-toggle="tab">$80</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet90" aria-controls="Banquet $90" role="tab" data-toggle="tab">$90</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet100" aria-controls="Banquet $100" role="tab" data-toggle="tab">$100</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet110" aria-controls="Banquet $110" role="tab" data-toggle="tab">$110</a></li>
-						<li role="presentation" class="li-padding"><a href="#Banquet120" aria-controls="Banquet $120" role="tab" data-toggle="tab">$120</a></li>
-						<li role="presentation" class="li-padding"><a href="#kids25" aria-controls="Kids $25" role="tab" data-toggle="tab">Kids</a></li>
-						<li role="presentation" class="li-padding"><a href="#extras" aria-controls="Extras" role="tab" data-toggle="tab">Extras</a></li>
+						@foreach($menus as $menu)
+						<li role="presentation" class="@if ($loop->first) active @endif li-padding"><a href="#{{ $menu->name }}{{$menu->id}}" aria-controls="{{ $menu->name }}" role="tab" data-toggle="tab">{{ $menu->name }}</a></li>
+						@endforeach
 					</ul>
 					<div class="tab-content">
-						<div role="tabpanel" class="tab-pane active" id="Banquet40">
-							<div class="row">
-								<div class="col-md-6">
-									<ul class="menu-list-items">
-										<li>
-											<div class="list-image">
-												<a href="/images/menu/cured-salmon.jpg" data-toggle="lightbox">
-													<img src="/images/menu/cured-salmon.jpg"  alt="">
-												</a>
-											</div>
-											<div class="list-content">
-												<h2>Cured salmon</h2>
-											</div>
-										</li>
-										<li>
-											<div class="list-image">
-												<a href="/images/menu/meat-assortment.jpg" data-toggle="lightbox">
-													<img src="/images/menu/meat-assortment.jpg" alt="">
-												</a>
-											</div>
-											<div class="list-content">
-												<h2>Meat Assortment</h2>
-											</div>
-										</li>
-										<li>
-											<div class="list-image">
-												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
-													<img src="/images/menu/greek-salad.jpg" alt="">
-												</a>
-											</div>
-											<div class="list-content">
-												<h2>Greek salad</h2>
-											</div>
-										</li>
-										<li>
-											<div class="list-image">
-												<a href="/images/menu/pickled-veg.jpg" data-toggle="lightbox">
-													<img src="/images/menu/pickled-veg.jpg" alt="">
-												</a>
-											</div>
-											<div class="list-content">
-												<h2>Pickled vegetables</h2>
-											</div>
-										</li>
-										<li>
-											<div class="list-image">
-												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
-													<img src="/images/menu/greek-salad.jpg" alt="">
-												</a>
-											</div>
-											<div class="list-content">
-												<h2>Bassa with baked vegetables!</h2>
-											</div>
-										</li>
-										<li>
-											<div class="list-image">
-												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
-													<img src="/images/menu/greek-salad.jpg" alt="">
-												</a>
-											</div>
-											<div class="list-content">
-												<h2>Shish-kebab chicken/pork 50/50!</h2>
-											</div>
-										</li>
-
-									</ul>
-								</div>
-								<div class="col-md-6">
-									<ul class="menu-list-items">
-										<li>
-											<div class="list-image">
-												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
-													<img src="/images/menu/greek-salad.jpg" alt="">
-												</a>
-											</div>
-											<div class="list-content">
-												<h2>Tomato/feta cheese salad!</h2>
-											</div>
-										</li>
-										<li>
-											<div class="list-image">
-												<a href="/images/menu/greek-salad.jpg" data-toggle="lightbox">
-													<img src="/images/menu/greek-salad.jpg" alt="">
-												</a>
-											</div>
-											<div class="list-content">
-												<h2>Asian chicken salad! </h2>
-											</div>
-										</li>
-										<li>
-											<div class="list-image">
-												<a href="/images/menu/.jpg" data-toggle="lightbox">
-													<img src="/images/menu/.jpg" alt="">
-												</a>
-											</div>
-											<div class="list-content">
-												<h2>Potatoes with herring (Russian style)! </h2>
-											</div>
-										</li>
-										<li>
-											<div class="list-image">
-												<a href="/images/menu/pierogi.jpg" data-toggle="lightbox">
-													<img src="/images/menu/pierogi.jpg" alt="">
-												</a>
-											</div>
-											<div class="list-content">
-												<h2>Pirogues (Chicken meat)</h2>
-											</div>
-										</li>
-										<li>
-											<div class="list-image">
-												<a href="/images/menu/assort-cakes.jpg" data-toggle="lightbox">
-													<img src="/images/menu/assort-cakes.jpg" alt="">
-												</a>
-											</div>
-											<div class="list-content">
-												<h2>Cola, tea, regular coffee, Cakes	</h2>
-											</div>
-										</li>
-									</ul>
-								</div>
+						@foreach($menus as $menu)
+							<div role="tabpanel" class="
+							@if ($loop->first) active @endif
+							 tab-pane" id="{{$menu->name}}{{$menu->id}}">
+								<div class="row">
+									<div class="col-md-6">
+										<ul class="menu-list-items">
+												@foreach($menu->items as $item)
+												@if ($loop->iteration % 2 != 0)
+													<li>
+														<div class="list-image">
+															<a href="/images/menu/{{ $item->image }}" data-toggle="lightbox">
+																<img src="/images/menu/{{ $item->image }}"  alt="{{ $item->name }}">
+															</a>
+														</div>
+														<div class="list-content">
+															<h2>{{ $item->name }}</h2>
+															<p>{{ $item->type	 }}</p>
+														</div>
+													</li>
+													@endif
+												@endforeach
+										</ul>
+									</div>
+ 									<div class="col-md-6">
+ 										<ul class="menu-list-items">
+ 												@foreach($menu->items as $item)
+												@if ($loop->iteration % 2 == 0)
+ 													<li>
+ 														<div class="list-image">
+ 															<a href="/images/menu/{{ $item->image }}" data-toggle="lightbox">
+ 																<img src="/images/menu/{{ $item->image }}"  alt="{{ $item->name }}">
+ 															</a>
+ 														</div>
+ 														<div class="list-content">
+ 															<h2>{{ $item->name }}</h2>
+ 															<p>{{ $item->type	 }}</p>
+ 														</div>
+ 													</li>
+													@endif
+ 												@endforeach
+ 										</ul>
+ 									</div>
 							</div>
 						</div>
+						@endforeach
+						<!--
 						<div role="tabpanel" class="tab-pane" id="Banquet50">
 							<div class="row">
 								<div class="col-md-6">
@@ -2584,6 +2500,7 @@
 								</div>
 							</div>
 						</div>
+					-->
 					</div>
 				</div>
 			</div>

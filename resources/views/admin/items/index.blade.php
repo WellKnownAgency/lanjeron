@@ -25,6 +25,7 @@
               <tr>
                 <th scope="col">Name</th>
                 <th scope="col">Image</th>
+                <th scope="col">Type</th>
                 <th scope="col">Created</th>
                 <th scope="col"></th>
               </tr>
@@ -32,8 +33,9 @@
             <tbody>
               @foreach ($items as $item)
               <tr>
-                <th scope="row">{{ $item->title }}</th>
-                <td><img src="/images/items/{{$item->image}}" width="50px;" height"auto"></td>
+                <th scope="row">{{ $item->name }}</th>
+                <td><img src="/images/menu/{{$item->image}}" width="50px;" height"auto"></td>
+                <th>{{ $item->type }}</th>
                 <td>{{ Carbon\Carbon::now()->parse($item->created_at)->diffForHumans() }}</td>
                 <td>
                   <a href="/admin/items/{{ $item->id }}/delete" class="btn btn-danger btn-sm delete">Delete</a>

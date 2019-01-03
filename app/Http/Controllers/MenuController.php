@@ -16,24 +16,24 @@ class MenuController extends Controller
 
   public function create()
   {
-      return view('admin.menus.create');
+      $items = Item::get();
+      return view('admin.menus.create')->withItems($items);
   }
 
   public function store(Request $request)
   {
     // validate the data
    $this->validate($request, array(
-           'name'         => 'required|max:255',
-           'slug'          => 'required|alpha_dash|min:5|max:255|unique:menus,slug',
+           'name'         => 'required|max:255|unique:menus,name'
        ));
    // store in the database
    $menu = new Menu;
    $menu->name = $request->name;
-   $menu->slug = $request->slug;
 
    $menu->save();
 
-   session()->put('success','Item Deleted Successfully from Your Cart ');
+   $menu->items()->sync($request->items, false);
+
    return redirect()->route('menus.index');
   }
 }

@@ -29,22 +29,22 @@
                 <input type="text" name="name" class="form-control" id="name" placeholder="Name">
               </div>
               <div class="form-group col-md-6">
-                <label for="slug">Slug</label>
-                <input type="slug" name="slug" class="form-control" id="slug" placeholder="Slug">
+                <label for="title">Type</label>
+                <select class="form-control" id="type" name="type">
+                  <option value="None">None</option>
+                  <option value="Cold Appetizers">Cold Appetizers</option>
+                  <option value="Hot Appetizers">Hot Appetizers</option>
+                  <option value="Entrees">Entrees</option>
+                  <option value="Desserts">Desserts</option>
+                </select>
               </div>
             </div>
             <div class="form-row">
-            <div class="form-group col-md-6">
-              <label for="image">Upload Image (500x500)</label>
-              <input type="file" class="form-control-file" name="img" id="image">
-            </div>
-            <div class="col-md-6">
-            @foreach ($menus as $menu)
-              <div class="form-check form-check-inline" >
-                <input class="form-check-input" type="checkbox" id="menus" value="{{$menu->id}}" name="menus[]">
-                <label class="form-check-label" for="menus">{{ $menu->name }}</label>
+              <div class="form-group col-md-6">
+                <label for="image">Upload Image (500x500)</label>
+                <input type="file" class="form-control-file" name="image" id="image">
               </div>
-            @endforeach
+              <div class="col-md-6">
               </div>
             </div>
             <button type="submit" class="btn btn-success">Create</button>

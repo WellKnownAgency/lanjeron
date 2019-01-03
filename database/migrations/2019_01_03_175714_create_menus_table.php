@@ -11,15 +11,14 @@ class CreateMenusTable extends Migration
      *
      * @return void
      */
-     public function up()
-     {
-         Schema::create('menus', function (Blueprint $table) {
-             $table->increments('id');
-             $table->string('name');
-             $table->string('slug');
-             $table->timestamps();
-         });
-     }
+    public function up()
+    {
+        Schema::create('menus', function (Blueprint $table) {
+            $table->increments('id');
+            $table->string('name');
+            $table->timestamps();
+        });
+    }
 
     /**
      * Reverse the migrations.

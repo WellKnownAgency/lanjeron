@@ -11,12 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-   $events = App\Event::take(3)->orderBy('date')->get();
-   $photos = App\Photo::take(8)->latest()->get();
-    return view('index')->withEvents($events)->withPhotos($photos);
-});
-
+Route::get('/', 'IndexController@index');
 
 Route::middleware('auth:web')->group(function () {
   Route::get('/admin', function () {

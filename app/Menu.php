@@ -8,6 +8,6 @@ class Menu extends Model
 {
   public function items()
     {
-      return $this->belongsToMany('App\Item');
+      return $this->belongsToMany('App\Item')->orderByRaw('FIELD(type, "Cold Appetizers", "Hot Appetizers" , "Entrees" , "Desserts")');
     }
 }
