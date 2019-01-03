@@ -26,7 +26,11 @@ Route::middleware('auth:web')->group(function () {
   });
   Route::resource('/admin/events', 'EventController');
   Route::resource('/admin/photos', 'PhotoController');
+  Route::resource('/admin/menus', 'MenuController');
+  Route::resource('/admin/items', 'ItemController');
   Route::get('/admin/events/{id}/delete', ['uses' => 'EventController@destroy', 'as' => 'event.delete']);
   Route::get('/admin/photos/{id}/delete', ['uses' => 'PhotoController@destroy', 'as' => 'photo.delete']);
+  Route::get('/admin/menus/{id}/delete', ['uses' => 'MenuController@destroy', 'as' => 'menu.delete']);
+  Route::get('/admin/items/{id}/delete', ['uses' => 'ItemController@destroy', 'as' => 'item.delete']);
 });
 Auth::routes();

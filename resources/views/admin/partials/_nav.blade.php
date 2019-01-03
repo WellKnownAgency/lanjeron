@@ -22,6 +22,16 @@
           Photos
         </a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link {{ Request::is('admin/menus') ?"active-nav" : ""}}" href="/admin/menus">
+          Menus
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link {{ Request::is('admin/items') ?"active-nav" : ""}}" href="/admin/items">
+          Items
+        </a>
+      </li>
     </ul>
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
