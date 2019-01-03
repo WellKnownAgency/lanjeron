@@ -6,7 +6,7 @@
   <div class="col-lg-3 col-md-3 col-sm-5 col-xs-5">
   <div class="logo">
     <a href="/admin" title="Lanjeron">
-      <img class="img-responsive" src="/images/lanjeron.png" height="110" alt="">
+      <b>Lanjeron</b>
     </a>
   </div><!--end logo-->
   </div>
@@ -23,5 +23,18 @@
         </a>
       </li>
     </ul>
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="{{ route('logout') }}"
+           onclick="event.preventDefault();
+                         document.getElementById('logout-form').submit();">
+            {{ __('Logout') }}
+        </a>
+
+        <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+            @csrf
+        </form>
+        </li>
+      </ul>
   </div>
 </nav>
