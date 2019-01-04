@@ -17,7 +17,9 @@ Route::middleware('auth:web')->group(function () {
   Route::get('/admin', function () {
     $events = App\Event::take(3)->orderBy('date')->get();
     $photos = App\Photo::take(8)->latest()->get();
-     return view('admin.index')->withEvents($events)->withPhotos($photos);
+    $menus = App\Menu::get();
+    $items = App\Item::get();
+     return view('admin.index')->withEvents($events)->withPhotos($photos)->withMenus($menus)->withItems($items);
   });
   Route::resource('/admin/events', 'EventController');
   Route::resource('/admin/photos', 'PhotoController');

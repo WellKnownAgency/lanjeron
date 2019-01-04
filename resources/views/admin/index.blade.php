@@ -38,6 +38,18 @@
             <p class="well-count">{{ $photos->count() }}</p>
           </div>
         </div>
+        <div class="col-sm-6">
+          <div class="well">
+            <a class="nav-link" href="/admin/menus">Total Menus</a>
+            <p class="well-count">{{ $menus->count() }}</p>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="well">
+            <a class="nav-link" href="/admin/items">Total Items</a>
+            <p class="well-count">{{ $items->count() }}</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
