@@ -10,7 +10,7 @@ class ItemController extends Controller
 {
   public function index()
   {
-    $items = Item::orderBy('id')->get();
+    $items = Item::orderBy('id')->paginate(10);
     return view('admin.items.index')->withItems($items);
   }
 

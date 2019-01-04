@@ -45,6 +45,7 @@
             </tbody>
           </table>
         </div>
+        <div style="width:50%;margin: auto;">{{ $items->links() }}</div>
       </div>
     </div>
   </div>

@@ -39,8 +39,20 @@ class MenuController extends Controller
 
   public function edit($id)
   {
+      $menu = Menu::with('items')->where('id', $id)->first();;
       $items = Item::all();
-      $menu = Menu::find($id);
+
+      $items->transform(function ($item, $key) use ($menu){
+          foreach ($menu->items as $mitem) {
+              if ($item->id === $mitem->id) {
+                  $item['checked'] = true;
+                  return $item;
+              }
+          }
+          return $item;
+      });
+
+
       return view('admin.menus.edit')->withMenu($menu)->withItems($items);
   }
 
@@ -48,15 +60,19 @@ class MenuController extends Controller
   {
     // validate the data
    $this->validate($request, array(
-           'name'         => 'required|max:255|unique:menus,name'
+           'name'         => 'required|max:255'
        ));
    // store in the database
    $menu = Menu::find($id);
-   $menu->name = $request->input('name');;
+   $menu->name = $request->input('name');
 
    $menu->save();
 
-   $menu->items()->sync($request->items, false);
+   if ($request->input('items')) {
+        $menu->items()->sync($request->items);
+    } else {
+        $menu->items()->sync(array());
+    }
 
    return redirect()->route('menus.index');
 }
