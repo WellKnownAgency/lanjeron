@@ -9,7 +9,7 @@ class MenuController extends Controller
 {
   public function index()
   {
-    $menus = Menu::orderBy('created_at', 'desc')->get();
+    $menus = Menu::orderBy('created_at', 'ASC')->get();
     return view('admin.menus.index')->withMenus($menus);
   }
 
