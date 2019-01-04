@@ -40,6 +40,7 @@
                 </th>
                 <td>{{ Carbon\Carbon::now()->parse($menu->created_at)->diffForHumans() }}</td>
                 <td>
+                  <a href="/admin/menus/{{ $menu->id }}/edit" class="btn btn-info btn-sm edit">Edit</a>
                   <a href="/admin/menus/{{ $menu->id }}/delete" class="btn btn-danger btn-sm delete">Delete</a>
                 </td>
               </tr>

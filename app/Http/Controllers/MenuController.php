@@ -36,4 +36,29 @@ class MenuController extends Controller
 
    return redirect()->route('menus.index');
   }
+
+  public function edit($id)
+  {
+      $items = Item::all();
+      $menu = Menu::find($id);
+      return view('admin.menus.edit')->withMenu($menu)->withItems($items);
+  }
+
+  public function update(Request $request, $id)
+  {
+    // validate the data
+   $this->validate($request, array(
+           'name'         => 'required|max:255|unique:menus,name'
+       ));
+   // store in the database
+   $menu = Menu::find($id);
+   $menu->name = $request->input('name');;
+
+   $menu->save();
+
+   $menu->items()->sync($request->items, false);
+
+   return redirect()->route('menus.index');
+}
+
 }

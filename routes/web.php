@@ -27,5 +27,7 @@ Route::middleware('auth:web')->group(function () {
   Route::get('/admin/photos/{id}/delete', ['uses' => 'PhotoController@destroy', 'as' => 'photo.delete']);
   Route::get('/admin/menus/{id}/delete', ['uses' => 'MenuController@destroy', 'as' => 'menu.delete']);
   Route::get('/admin/items/{id}/delete', ['uses' => 'ItemController@destroy', 'as' => 'item.delete']);
+  Route::post('/menus/{id}','MenuController@update');
+
 });
 Auth::routes();
