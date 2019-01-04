@@ -2610,7 +2610,7 @@
 			================================================== -->
 		<footer>
 			<p class="copyright">
-				&copy; Copyright 2018. Lanjeron. All rights reserved.
+				&copy; Copyright <?php echo date("Y"); ?>. Lanjeron. All rights reserved.
 				<span style="float:right; font-size: 10px;">by <a href="https://wknown.com" target="_blank" style="text-decoration: none;">WellKnown Agency</a></span>
 			</p>
 		</footer>
