@@ -172,14 +172,14 @@
 					<!-- Nav tabs -->
 					<ul class="nav nav-tabs" role="tablist">
 						@foreach($menus as $menu)
-						<li role="presentation" class="@if ($loop->first) active @endif li-padding"><a href="#{{ $menu->name }}{{$menu->id}}" aria-controls="{{ $menu->name }}" role="tab" data-toggle="tab">{{ $menu->name }}</a></li>
+						<li role="presentation" class="@if ($loop->first) active @endif li-padding"><a href="#{{$menu->id}}" aria-controls="{{ $menu->name }}" role="tab" data-toggle="tab">{{ $menu->name }}</a></li>
 						@endforeach
 					</ul>
 					<div class="tab-content">
 						@foreach($menus as $menu)
 							<div role="tabpanel" class="
 							@if ($loop->first) active @endif
-							 tab-pane" id="{{$menu->name}}{{$menu->id}}">
+							 tab-pane" id="{{$menu->id}}">
 								<div class="row">
 									<div class="col-md-6">
 										<ul class="menu-list-items">
