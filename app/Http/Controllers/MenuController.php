@@ -61,4 +61,11 @@ class MenuController extends Controller
    return redirect()->route('menus.index');
 }
 
+public function destroy($id)
+{
+    $menu = Menu::findOrFail($id);
+    $menu->delete();
+    return redirect()->route('menus.index');
+}
+
 }
