@@ -126,7 +126,7 @@
 						<div class="col-md-6">
 							<div class="rest-about-box">
 								<h1>Our Story</h1>
-								<p>Celebrating important life events requires quality, service, and class. Lanjeron Restaurant encompasses all three, creating the ideal location for events such as weddings, anniversaries, birthday parties, bar mitzvahs, corporate gatherings and much more. </p>
+								<p>Restaurant Lanjeron offers a Mediterranean-Russian fusion cuisine. We are a family owned and operated restaurant serving fusion fare family style. Our flavorful, satisfying dishes convert first-time visits to long-term relationships in a single bite.  The most important principle of fusion cuisine is good taste in the literal sense.  </p>
 							</div>
 						</div>
 					</div>
@@ -136,7 +136,8 @@
 						<div class="col-md-6">
 							<div class="rest-about-box">
 								<h1>Our Restaurant </h1>
-								<p>Fine Russian cuisine is at the heart of the Lanjeron Restaurant experience, with extensive menus that discover taste sensations from across the vast country. Behind the scenes, the high-quality culinary masters prepare and create delicious dishes for every occasion. </p>
+								<p>It is unique and original cooking which requires the chef to use versatility in the kitchen, using world's different eats to combine them in startling ways.
+								Our restaurant offers an extensive menu full of delicacies from around the world. It is a unique place, combining the exotic cuisine of the Mediterranean elaborate dishes and the Eastern world, creating an unforgettable bouquet of flavours and spice. </p>
 								<p><span>If you have any questions, we are here to support you. We do our best to make your life happier and easier! See you soon!</span></p>
 								<div class="about-time">
 									<div class="row">
