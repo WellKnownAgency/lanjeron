@@ -181,7 +181,7 @@
 							@if ($loop->first) active @endif
 							 tab-pane" id="{{$menu->id}}">
 								<div class="row">
-									<div class="col-md-6">
+									<div class="col-md-6 mobile-down">
 										<ul class="menu-list-items">
 												@foreach($menu->items as $item)
 												@if ($loop->iteration % 2 != 0)
@@ -200,7 +200,7 @@
 												@endforeach
 										</ul>
 									</div>
- 									<div class="col-md-6">
+ 									<div class="col-md-6 mobile-down">
  										<ul class="menu-list-items">
  												@foreach($menu->items as $item)
 												@if ($loop->iteration % 2 == 0)
@@ -219,6 +219,23 @@
  												@endforeach
  										</ul>
  									</div>
+									<div class="col-md-12 mobile-up">
+										<ul class="menu-list-items">
+												@foreach($menu->items as $item)
+													<li>
+														<div class="list-image">
+															<a href="/images/menu/{{ $item->image }}" data-toggle="lightbox">
+																<img src="/images/menu/{{ $item->image }}"  alt="{{ $item->name }}">
+															</a>
+														</div>
+														<div class="list-content">
+															<h2>{{ $item->name }}</h2>
+															<p>{{ $item->type	 }}</p>
+														</div>
+													</li>
+												@endforeach
+										</ul>
+									</div>
 							</div>
 						</div>
 						@endforeach

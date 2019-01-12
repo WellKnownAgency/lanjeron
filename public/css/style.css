@@ -23,6 +23,19 @@
 
 @import url('https://fonts.googleapis.com/css?family=Alex+Brush|Playfair+Display:400,400i,700,700i,900,900i|Rubik:300,300i,400,400i,500,700');
 
+@media (min-width: 991px) {
+  .mobile-up {
+  display: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .mobile-down {
+    display: none;
+  }
+}
+
+
 .layer {
     padding: 100px 0 60px;
     background-color: rgba(51, 51, 51, 0.8);
