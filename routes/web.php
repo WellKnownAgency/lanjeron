@@ -12,7 +12,6 @@
 */
 
 Route::get('/', 'IndexController@index');
-Route::get('test', 'IndexController@test');
 
 Route::middleware('auth:web')->group(function () {
   Route::get('/admin', function () {
