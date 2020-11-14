@@ -142,8 +142,8 @@
 								<div class="about-time">
 									<div class="row">
 										<div class="col-md-5 col-sm-6">
-											<p>Wednesday — Thursday</p>
-											<span>1 pm — 6 pm</span>
+											<p>Tuesday — Thursday</p>
+											<span>12 pm — 9 pm</span>
 										</div>
 										<div class="col-md-5 col-sm-6">
 											<p>Friday — Sunday</p>
@@ -168,6 +168,7 @@
 			<div class="container">
 				<div class="title-section">
 					<h1>Our Menus</h1>
+				<p>Banquet serv. 8 ppl & up </p>
 				</div>
 				<div class="menu-box">
 					<!-- Nav tabs -->
@@ -328,8 +329,8 @@
 										Open Hours
 									</h1>
 									<p>
-										<span>Wednesday — Thursday</span>
-										<span class="time">1 pm - 6 pm</span>
+										<span>Tuesday — Thursday</span>
+										<span class="time">12 pm - 9 pm</span>
 									</p>
 									<p>
 										<span>Friday - Sunday</span>

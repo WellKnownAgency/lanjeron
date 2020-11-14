@@ -17,7 +17,7 @@ class IndexController extends Controller
       $photos = Photo::take(8)->latest()->get();
       $menus = Menu::with('items')->orderBy('created_at', 'ASC')->get();
 
-      return view('index',  compact('menus'), compact('items'))->withEvents($events)->withPhotos($photos);
+      return view('index',  compact('menus'))->withEvents($events)->withPhotos($photos);
     }
 
 }
